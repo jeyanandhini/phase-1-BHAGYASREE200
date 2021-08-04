@@ -1,4 +1,4 @@
 
 Daily works ⏱⌛
 
-[Day 1](https://opensource.guide/)
+DAY 1:
