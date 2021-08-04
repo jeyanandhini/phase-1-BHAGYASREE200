@@ -4,7 +4,7 @@ What is Recursion?
       and the corresponding function is called as recursive function. Using recursive algorithm,
       certain problems can be solved quite easily. 
 
- *program to write n natural numbers in increasing order*            
+ 👉*program to write n natural numbers in increasing order*            
 
 
 #include <stdio.h>     
@@ -22,7 +22,7 @@ What is Recursion?
 }                      
 output : 1 2 3 4 5               
 
-*program to print n natural numbers in decreaswing order*             
+👉*program to print n natural numbers in decreaswing order*             
 
          
  #include <stdio.h>                  
@@ -40,7 +40,7 @@ output : 1 2 3 4 5
 }                    
 output : 5 4 3 2 1                           
 
- *program to find factorial of a number*                       
+ 👉*program to find factorial of a number*                       
  
  #include <stdio.h>                 
  int fact(int n)                  
@@ -60,7 +60,7 @@ int ans=n*x;
  output: 5                      
  120                        
  
- *program to find power of a number*                
+👉 *program to find power of a number*                
  #include <stdio.h>                    
              
 int f(int x , int n)             
