@@ -6,4 +6,6 @@ question asked in daily classes
 3.what is meant by <stdio.h> ?    
 [answer](https://www.hackerearth.com/practice/notes/why-a-header-file-such-as-includestdioh-is-used/)                           
 4.what is procedural programming language ?                       
-[answer](https://hackr.io/blog/procedural-programming)    
+[answer](https://hackr.io/blog/procedural-programming) 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
