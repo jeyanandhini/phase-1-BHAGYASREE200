@@ -8,6 +8,9 @@ Daily works ⏱⌛
       [AppDynamics](https://www.appdynamics.com/)                   
       [Enbridge](https://en.wikipedia.org/wiki/Enbridge)                          
       [API](https://en.wikipedia.org/wiki/API)   
-      [SPOJ](https://en.wikipedia.org/wiki/SPOJ)   
+      [SPOJ](https://en.wikipedia.org/wiki/SPOJ)    
+ 4.DAY 4 : Discussed about the upcoming three days training     
+           and the syllabus of 3rd semester
+ 
       
      
