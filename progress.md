@@ -10,7 +10,8 @@ Daily works ⏱⌛
       [API](https://en.wikipedia.org/wiki/API)   
       [SPOJ](https://en.wikipedia.org/wiki/SPOJ)    
 4.  DAY 4 : Discussed about the upcoming three days training     
-           and the syllabus of 3rd semester
+           and the syllabus of 3rd semester    
+5.  DAY 5 : preparing for the first  toastmasters meet but i am very munch nervous ,hopefully it will be better .
  
       
      
