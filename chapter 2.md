@@ -204,8 +204,23 @@ int main()
    }                     
    printf("the absolute value is %d",number);                    
     return 0;               
-}                           
+} 
 
+(h) Write a program to find the absolute value of a number entered
+through the keyboard.                       
 
- 
+ #include <stdio.h>   
+int main()   
+{                        
+   int l,b,a,p ;              
+   printf("enter l,b");                   
+   scanf("%d%d",&l,&b);                
+   a=l*b;                  
+   p=2*(l+b);                 
+   if (a>p)                  
+   {                     
+       printf("a is greater then p");            
+   }                
+    return 0;              
+}                     
   
