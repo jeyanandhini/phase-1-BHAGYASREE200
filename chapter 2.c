@@ -1,4 +1,4 @@
-[chapter2](https://github.com/BHAGYASREE200/DOCUMENTATION-OF-ALWAYS-BE-ALERT/blob/main/if%20basic%20problem)                     
+                   
 **more problems**:                
 (a) If cost price and selling price of an item are input through the
 keyboard, write a program to determine whether the seller has
