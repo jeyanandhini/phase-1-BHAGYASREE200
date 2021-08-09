@@ -66,8 +66,8 @@ should display the count of positive, negative and zeros entered.
   
 int main()  
 {  
-    int limit, num, positive = 0, negative = 0, zero = 0; 
-    printf("Enter the limit\n");  
+    int limit, num, positive = 0, negative = 0, zero=0;                        
+    printf("Enter the limit\n");                    
     scanf("%d", &limit);  
     printf("Enter %d numbers\n", limit);  
     while(limit)  
