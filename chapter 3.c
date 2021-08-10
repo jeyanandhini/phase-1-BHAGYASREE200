@@ -226,5 +226,26 @@ smiling face has an ASCII value 1.
     }                               
     return 0;                      
 }      
-   
+    
 
+Write a program to add first seven terms of the following series
+using a for loop
+        1/1! + 2/2! + 3/3! + ........
+#include<stdio.h>
+int main()
+{
+    int i , j  ;
+    float fact , div , sum = 0 ;
+    for(i = 1; i <=7; i++)
+    { 
+        fact = 1;
+        for(j = 1; j<=i; j++)
+        {
+            fact = fact*j;
+        }
+        div = i/fact;
+        sum = sum + div ;
+    }
+    printf("sum of first seven terms %.2f",sum);
+    return 0;
+}
