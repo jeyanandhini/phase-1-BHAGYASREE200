@@ -11,7 +11,9 @@ Daily works ⏱⌛
       [SPOJ](https://en.wikipedia.org/wiki/SPOJ)    
 4.  DAY 4 : Discussed about the upcoming three days training     
            and the syllabus of 3rd semester    
-5.  DAY 5 : preparing for the first  toastmasters meet but i am very munch nervous ,hopefully it will be better .
+5.  DAY 5 : preparing for the first  toastmasters meet but i am very munch nervous ,hopefully it will be better .                   
+6.  DAY 6: SUNDAY FUNDAY NO WORK ONLY ENJOY   
+7.  [DAY 7](https://www.vim.org/about.php#:~:text=Vim%20is%20a%20highly%20configurable,consider%20it%20an%20entire%20IDE%20.)
  
       
      
