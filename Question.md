@@ -9,3 +9,5 @@ question asked in daily classes
 [answer](https://hackr.io/blog/procedural-programming) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. what are * and & in pointers ?  
+[answer](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
