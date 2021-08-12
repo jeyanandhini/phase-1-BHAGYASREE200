@@ -11,5 +11,5 @@ question asked in daily classes
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 5. what are * and & in pointers ?  
 [answer](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
-6. difference between int* a    and  int *a ?
+6. difference between int* a    and  int *a ?   
 [answer](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)
