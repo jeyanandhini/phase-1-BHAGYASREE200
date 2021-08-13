@@ -20,4 +20,6 @@ Daily works ⏱⌛
      • In todays class we discussed about some important things    
      👉 We always overestimate what we do.     
      👉 Don't go out of the box.      
-     👉 There is never too late to mend.       
+     👉 There is never too late to mend.      
+ 8. DAY 8: Started pointers .  
+ 9. 
