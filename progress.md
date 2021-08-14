@@ -22,4 +22,4 @@ Daily works ⏱⌛
      👉 Don't go out of the box.      
      👉 There is never too late to mend.      
  8. DAY 8: Started pointers .  
- 9. 
+ 9. DAY 9: normal class 
