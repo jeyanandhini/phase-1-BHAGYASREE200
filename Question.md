@@ -8,7 +8,8 @@ question asked in daily classes
 4.what is procedural programming language ?                       
 [answer](https://hackr.io/blog/procedural-programming) 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 5. what are * and & in pointers ?  
 [answer](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
 6. difference between int* a    and  int *a ?   
