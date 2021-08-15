@@ -22,4 +22,6 @@ Daily works ⏱⌛
      👉 Don't go out of the box.      
      👉 There is never too late to mend.      
  8. DAY 8: Started pointers .  
- 9. DAY 9: normal class 
+ 9. DAY 9: normal class .
+ 10. [DAY 10](https://www.keybr.com/)   
+        Typing practice 
