@@ -24,4 +24,6 @@ Daily works ⏱⌛
  8. DAY 8: Started pointers .  
  9. DAY 9: normal class .
  10. [DAY 10](https://www.keybr.com/)   
-        Typing practice 
+        Typing practice    
+ 11. DAY 11 : today we made a toastmasters meet .
+             and finally access to the domain .
