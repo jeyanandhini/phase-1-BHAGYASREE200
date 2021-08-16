@@ -89,5 +89,51 @@ value of k = 191294504
 value at address = 191294500
  
  
+ function "call by value"
  
+ #include <stdio.h>
+int swapv (int x ,int y);
+int main()
+{
+    int a=77,b=66;
+    swapv (a,b);
+    printf("a=%d b=%d\n",a,b);
+
+    return 0;
+}
+int swapv (int x ,int y)
+{
+    int t;
+    t = x;
+    x = y;
+    y = t;
+    printf("x=%d y=%d\n",x,y);
+}
+//output 
+x=66 y=77
+a=77 b=66
+ 
+ 
+ function call by reference
+ #include <stdio.h>
+int swapr (int *x ,int *y);
+int main()
+{
+    int a=7, b=6;
+    swapr (&a,&b);
+    printf("a=%d b=%d\n",a,b);
+
+    return 0;
+}
+int swapr (int *x ,int *y)
+{
+    int t;
+    t = *x;
+    *x = *y;
+   *y = t;
+    printf("x=%d y=%d\n",x,y);
+}
+ //output
+x=133248896 y=133248900
+a=6 b=7
  
