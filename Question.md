@@ -30,8 +30,7 @@ question asked in daily classes
 for(x=97; x<=122; x++)   
 {   
     printf("%c", x);   /*Implicit casting from int to char thanks to %c*/    
-}      
-
+}         
 11. type casting ? ( or ) explicit type ?    
 [answer]  The type conversion performed by the programmer by posing the data type of the expression of specific type is known as explicit type conversion. The explicit type conversion is also known as type casting.     
 example:     
@@ -40,4 +39,7 @@ for(x=97; x<=122; x++)
 {                  
     printf("%c", (char)x);   /*Explicit casting from int to char*/                    
 }                         
- 
+12.Dereferencing pointer ?   
+answer :  
+Dereferencing is used to access or manipulate data contained in memory location pointed to by a pointer. *(asterisk) is used with pointer variable when dereferencing the pointer variable, it refers to variable being pointed, so this is called dereferencing of pointers . [more](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/dereference.html)  
+
