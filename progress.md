@@ -25,5 +25,6 @@ Daily works ⏱⌛
  9. DAY 9: normal class .
  10. [DAY 10](https://www.keybr.com/)   
         Typing practice    
- 11. DAY 11 : today we made a toastmasters meet .
-             and finally access to the domain .
+ 11. DAY 11 : today we made a toastmasters meet .   
+             and finally access to the domain . 
+ 12. DAY 12 : Discussed more about pointers and many questions were raised and solved in QUESTION.md .  
