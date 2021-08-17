@@ -20,4 +20,4 @@ question asked in daily classes
  
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
  8 .are there any other pointer types available other than in c  ?  
- 
+ [answer](https://www.quora.com/Apart-from-C-and-C++-in-what-other-languages-are-pointers-used)
