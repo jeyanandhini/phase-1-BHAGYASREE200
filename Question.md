@@ -16,5 +16,8 @@ question asked in daily classes
 [answer](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  7 . What other files are made after i compile a .c file ?   
- [answer](https://stackoverflow.com/questions/18933410/how-many-files-are-created-when-a-c-program-is-executed)
+ [answer](https://stackoverflow.com/questions/18933410/how-many-files-are-created-when-a-c-program-is-executed)   
+ 
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 8 .are there any other pointer types available other than c  ?  
  
