@@ -19,5 +19,5 @@ question asked in daily classes
  [answer](https://stackoverflow.com/questions/18933410/how-many-files-are-created-when-a-c-program-is-executed)   
  
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
- 8 .are there any other pointer types available other than c  ?  
+ 8 .are there any other pointer types available other than in c  ?  
  
