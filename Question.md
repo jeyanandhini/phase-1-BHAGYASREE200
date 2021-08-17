@@ -24,20 +24,20 @@ question asked in daily classes
  9.Generic pointer ?  
  [answer](http://www.faqs.org/docs/learnc/x658.html)    
  10.implicit type ?  
- [answer]   When the type conversion is performed automatically by the compiler without programmers intervention, such type of conversion is known as implicit type conversion or type promotion.  
- example:
- int x;
-for(x=97; x<=122; x++)
-{
-    printf("%c", x);   /*Implicit casting from int to char thanks to %c*/
-}  
+ [answer]   When the type conversion is performed automatically by the compiler without programmers intervention, such type of conversion is known as implicit type conversion or type promotion.    
+ example:   
+ int x;  
+for(x=97; x<=122; x++)   
+{   
+    printf("%c", x);   /*Implicit casting from int to char thanks to %c*/    
+}      
 
-11. type casting ? ( or ) explicit type ? 
-[answer]  The type conversion performed by the programmer by posing the data type of the expression of specific type is known as explicit type conversion. The explicit type conversion is also known as type casting.  
-example: 
-int x;
-for(x=97; x<=122; x++)
-{
-    printf("%c", (char)x);   /*Explicit casting from int to char*/
-}
+11. type casting ? ( or ) explicit type ?    
+[answer]  The type conversion performed by the programmer by posing the data type of the expression of specific type is known as explicit type conversion. The explicit type conversion is also known as type casting.     
+example:     
+int x;                 
+for(x=97; x<=122; x++)                   
+{                  
+    printf("%c", (char)x);   /*Explicit casting from int to char*/                    
+}                         
  
