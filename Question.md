@@ -9,10 +9,10 @@ question asked in daily classes
 💬4.what is procedural programming language ?                       
 [answer](https://hackr.io/blog/procedural-programming) 
 ▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫                                                             
-💬5. what are * and & in pointers ?  
-[answer](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
-💬6. difference between int* a    and  int *a ?     
-[answer](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)
+💬5. what are * and & in pointers ?    
+[answer](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)        
+💬6. difference between int* a    and  int *a ?      
+[answer](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)   
 
 ▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫                                      
 💬7 . What other files are made after i compile a .c file ?   
