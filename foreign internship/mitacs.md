@@ -1,6 +1,6 @@
 **👑 MITACS 👑**
 
-
+⚫Mitacs is a nonprofit national research organization that, in partnerships with Canadian academia, private industry and government.  
 
 
 
