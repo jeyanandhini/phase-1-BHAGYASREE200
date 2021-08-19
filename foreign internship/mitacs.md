@@ -31,7 +31,15 @@ Why the name “Mitacs”? The answer is part of our proud history. In our early
  🔘  [  Mitacs Globalink Research Internship Experience – Canada 2021 ](https://www.geeksforgeeks.org/mitacs-globalink-research-internship-experience-canada-2021/)    
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-💥💥💥💥💥💥💥💥💥 [APPLICATION FOR MITACS ](https://globalink.mitacs.ca/#/student/application/welcome) 💥💥💥💥💥💥💥💥💥   
+💥💥💥💥💥💥💥💥💥 [APPLICATION FOR MITACS ](https://globalink.mitacs.ca/#/student/application/welcome) 💥💥💥💥💥💥💥💥💥  
+
+ 💥💥💥💥💥💥💥💥💥[Mitacs Global Research Internship in Canada 2022 | Fully Funded](https://opportunitiescorners.info/mitacs-global-research-internship/) 💥💥💥💥💥💥💥💥💥 
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------   
+**social media links**   
+🔘[mitacs twitter](https://twitter.com/MitacsCanada?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
+🔘[mitacs facebooks](https://m.facebook.com/Mitacs/)   
+🔘[mitacs linkedin](https://www.linkedin.com/company/mitacs/?originalSubdomain=in)   
     
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
       * THANKS FOR SEEING PATIENTLY *
