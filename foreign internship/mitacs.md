@@ -2,8 +2,9 @@
 
 ◼Mitacs is a nonprofit national research organization that, in partnerships with Canadian academia, private industry and government.      
 ◼ It operates research and training programs in fields related to industrial and social innovation.    
-◼Mitacs was founded by Canadian mathematicians in 1999. The organization, whose name originally stood for "Mathematics of Information Technology and Complex Systems", worked in the field of mathematical sciences and associated disciplines but has since expanded. In 2004, the Mitacs Accelerate program was launched[3] and has since supported over 10,000 internships nationally.     
-https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D301702622014&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FMitacs%2F&tbnid=1qI3O5tnB8h8NM&vet=12ahUKEwiZ9Z6czbzyAhXwgUsFHYM_AaoQMygBegUIARC_AQ..i&docid=oXrpys6E1atSnM&w=600&h=600&q=MITACS&ved=2ahUKEwiZ9Z6czbzyAhXwgUsFHYM_AaoQMygBegUIARC_AQ
+◼Mitacs was founded by Canadian mathematicians in 1999. The organization, whose name originally stood for "Mathematics of Information Technology and Complex Systems", worked in the field of mathematical sciences and associated disciplines but has since expanded. In 2004, the Mitacs Accelerate program was launched[3] and has since supported over 10,000 internships nationally.  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👉What does Mitacs stand for?
 The Mathematics of Information Technology and Complex Systems
 Why the name “Mitacs”? The answer is part of our proud history. In our early days, Mitacs was known as “The Mathematics of Information Technology and Complex Systems, (MITACS NCE)”. The acronym referred to our original mandate to connect mathematics researchers to industry and professional development opportunities.                             
@@ -28,7 +29,7 @@ Why the name “Mitacs”? The answer is part of our proud history. In our early
       [mitacs Acclerate fellowship](https://www.mitacs.ca/en/programs/accelerate/fellowship)    
  🔘  [  Mitacs Globalink Research Internship Experience – Canada 2021 ](https://www.geeksforgeeks.org/mitacs-globalink-research-internship-experience-canada-2021/)    
  
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
