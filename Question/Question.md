@@ -50,7 +50,7 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[13.1's complement and 2's complement ?](https://www.allaboutelectronics.org/1s-complement-and-2s-complement-of-binary-numbers-signed-binary-numbeer-representation/)  
  
 
-💬[14.what is the use of creating logic gates](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers/xcae6f4a7ff015e7d:logic-gates-and-circuits/a/logic-gates#:~:text=Computers%20need%20a%20way%20to,result%20based%20on%20their%20state.)     
+💬[14.what is the use of creating logic gates ?](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers/xcae6f4a7ff015e7d:logic-gates-and-circuits/a/logic-gates#:~:text=Computers%20need%20a%20way%20to,result%20based%20on%20their%20state.)     
 
 --------------------------------------------------------------------------------------------------------------------------------
 💬[15 . what is pointer arthmetic in c ?](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)     
