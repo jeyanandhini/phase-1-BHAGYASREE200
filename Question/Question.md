@@ -11,17 +11,17 @@ question asked in daily classes
 ---------------------------------------------------------------------------------------------------------------------------------------                                                          
 💬[5. what are * and & in pointers ?](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)    
        
-💬[6. difference between int* a    and  int *a ? ](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)            
+💬[6. difference between int* a    and  int *a ? ](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)             
      
-
-▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫                                      
-💬7 . What other files are made after i compile a .c file ?   
- [answer](https://stackoverflow.com/questions/18933410/how-many-files-are-created-when-a-c-program-is-executed)   
-▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫                                                     
- 💬8 .are there any other pointer types available other than in c  ?  
- [answer](https://www.quora.com/Apart-from-C-and-C++-in-what-other-languages-are-pointers-used)   
- 💬9.Generic pointer ?  
- [answer](http://www.faqs.org/docs/learnc/x658.html)    
+-----------------------------------------------------------------------------------------------------------------------------------------
+💬[7 . What other files are made after i compile a .c file ? ](https://stackoverflow.com/questions/18933410/how-many-files-are-created-when-a-c-program-is-executed)           
+   
+------------------------------------------------------------------------------------------------------------------------------------------                                                     
+ 💬[8 .are there any other pointer types available other than in c  ?](https://www.quora.com/Apart-from-C-and-C++-in-what-other-languages-are-pointers-used)           
+   
+ 💬[9.Generic pointer ?](http://www.faqs.org/docs/learnc/x658.html)   
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------   
  💬10.implicit type ?  
  [answer]   When the type conversion is performed automatically by the compiler without programmers intervention, such type of conversion is known as implicit type conversion or type promotion.    
  example:   
@@ -39,22 +39,23 @@ for(x=97; x<=122; x++)
     printf("%c", (char)x);   /*Explicit casting from int to char*/                    
 }                         
 
-▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫                                                           
- 💬12.Dereferencing pointer ?   
+-------------------------------------------------------------------------------------------------------------------------------                                                           
+ 💬[12.Dereferencing pointer ?](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/dereference.html)  
+   
 answer :  
-Dereferencing is used to access or manipulate data contained in memory location pointed to by a pointer. *(asterisk) is used with pointer variable when dereferencing the pointer variable, it refers to variable being pointed, so this is called dereferencing of pointers . [more](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/dereference.html)  
+Dereferencing is used to access or manipulate data contained in memory location pointed to by a pointer. *(asterisk) is used with pointer variable when dereferencing the pointer variable, it refers to variable being pointed, so this is called dereferencing of pointers .   
 
 
-▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫            
-💬13.1's complement and 2's complement ?   
-[answer](https://www.allaboutelectronics.org/1s-complement-and-2s-complement-of-binary-numbers-signed-binary-number-representation/)  
+---------------------------------------------------------------------------------------------------------------------------------            
+💬[13.1's complement and 2's complement ?](https://www.allaboutelectronics.org/1s-complement-and-2s-complement-of-binary-numbers-signed-binary-numbeer-representation/)  
+ 
 
-💬14 . what is the use of creating logic gates ?     
-[answer](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers/xcae6f4a7ff015e7d:logic-gates-and-circuits/a/logic-gates)  
-▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫ 
-💬15 . what is pointer arthmetic in c ?  
-[answer](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)   
-▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫
-💬16.Why do array indexes start with 0 (zero) in many programming languages?    
-[answer](https://www.quora.com/Why-do-array-indexes-start-with-0-zero-in-many-programming-languages)       
-▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫▫                
+💬[14](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers/xcae6f4a7ff015e7d:logic-gates-and-circuits/a/logic-gates#:~:text=Computers%20need%20a%20way%20to,result%20based%20on%20their%20state.)     
+
+--------------------------------------------------------------------------------------------------------------------------------
+💬[15 . what is pointer arthmetic in c ?](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)     
+   
+-------------------------------------------------------------------------------------------------------------------------------
+💬[16.Why do array indexes start with 0 (zero) in many programming languages?](https://www.quora.com/Why-do-array-indexes-start-with-0-zero-in-many-programming-languages)     
+       
+--------------------------------------------------------------------------------------------------------------------------------                
