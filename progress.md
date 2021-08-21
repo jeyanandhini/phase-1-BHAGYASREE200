@@ -8,7 +8,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------            
 ✔ 3.  [DAY 3  Assingment](https://en.wikipedia.org/wiki/AppDynamics)
-    AppDynamics is an application performance management and IT operations analytics company based in San Francisco. The company focuses on managing the performance and availability of applications across cloud computing environments as well as inside the data center , [AppDynamics](https://www.appdynamics.com/) ,  [Enbridge](https://en.wikipedia.org/wiki/Enbridge) ,[API](https://en.wikipedia.org/wiki/API) , [SPOJ](https://en.wikipedia.org/wiki/SPOJ)    
+    AppDynamics is an application performance management and IT operations analytics company based in San Francisco. The company focuses on managing the performance and availability of applications across cloud computing environments as well as inside the data center , [AppDynamics](https://www.appdynamics.com/) ,  [Enbridge](https://en.wikipedia.org/wiki/Enbridge) ,[API](https://en.wikipedia.org/wiki/API) , [SPOJ](https://en.wikipedia.org/wiki/SPOJ) ,knowledged on some new apps which heared today. 
       
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------                 
 ✔ 4.  DAY 4 : Discussed about the upcoming three days training and the syllabus of 3rd semester     
@@ -21,7 +21,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------             
 ✔ 7.  DAY 7: [vim](https://www.vim.org/about.php#:~:text=Vim%20is%20a%20highly%20configurable,consider%20it%20an%20entire%20IDE%20.)   ,
-        [vi](https://en.wikipedia.org/wiki/Vi) ,[Sublime text](https://en.wikipedia.org/wiki/Sublime_Text)         
+        [vi](https://en.wikipedia.org/wiki/Vi) ,[Sublime text](https://en.wikipedia.org/wiki/Sublime_Text) ,new concept discussed and got an idea.              
      
 ---------------------------------------------------------------------------------------------------------------------------------------------------              
 ✔ 8. DAY 8: Started pointers .  
