@@ -2,8 +2,8 @@
 **upcoming toastmasters**
 the meet we held on 7th aug 2021 few information  
 	
-	"CleanHand Beginner      
-Theme:  How to engage audience"    	
+CleanHand Beginner      
+Theme:  "How to engage audience"    	
 	Date      :	07 Aug 2021, Sat    
 	Time	    : 7:30- 8:30 PM   
 	Location	: google meet    
@@ -23,8 +23,26 @@ Theme:  How to engage audience"
 	
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------    
 **second algomagnet meet **   
-![image](https://user-images.githubusercontent.com/85113970/130435655-1a8458de-9823-478b-8286-dea1abd4d175.png)
 
+the meet held on 22nd aug 2021 few information .   
+
+NITA Ex comm  
+Theme: "how to be consistent towards our **goals**    	
+	Date      :	22 Aug 2021, Sat    
+	Time	    : 7:30- 8:30 PM   
+	Location	: google meet    
+	    **Major Roles and Role Takers**  	
+	General Evaluator(3-4mins)	              : Madhumitha .s    
+	Toastmaster of the Day (8-9 mins )            :	Suraj   
+	Table Topic Master (15 mins)	                :Anjura    
+	   **Speakers & Evaluators**   	
+	Prepared Speaker (5-7 mins)                   :	 Bhagyasree  
+	Speech Evaluator (2-3 mins)	              : Pavitra    
+  	**TAG Team (Objective Evaluators)**	   
+	Grammarian (2-3 mins)                         :	Simanta   
+	Ah Counter (1-2 mins)                         :	Swapnil sagar   
+	Timer (1-2 mins)                              :	pavithra  
+	
 
 
 
