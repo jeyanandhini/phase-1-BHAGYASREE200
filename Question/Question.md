@@ -65,4 +65,7 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[18.parsing defination](https://www.geeksforgeeks.org/types-of-parsers-in-compiler-design/#:~:text=Parser%20is%20that%20phase%20of,also%20known%20as%20Syntax%20Analyzer.) 
 
 
-💬[19.What is the use of & in scanf and printf ?](http://people.scs.carleton.ca/~mjhinek/W13/COMP2401/notes/scanf_printf.pdf)             
+💬[19.What is the use of & in scanf  ?](http://people.scs.carleton.ca/~mjhinek/W13/COMP2401/notes/scanf_printf.pdf)      
+
+
+💬[ use of & in scanf and not in printf ?](https://www.geeksforgeeks.org/use-scanf-not-printf/)      
