@@ -68,4 +68,7 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[19.What is the use of & in scanf  ?](http://people.scs.carleton.ca/~mjhinek/W13/COMP2401/notes/scanf_printf.pdf)      
 
 
-💬[ use of & in scanf and not in printf ?](https://www.geeksforgeeks.org/use-scanf-not-printf/)      
+💬[20.use of & in scanf and not in printf ?](https://www.geeksforgeeks.org/use-scanf-not-printf/)       
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+💬[21.Different forms of naming conventions ?](https://press.rebus.community/programmingfundamentals/chapter/identifier-names/)        
