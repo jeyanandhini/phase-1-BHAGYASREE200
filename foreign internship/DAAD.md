@@ -1,4 +1,4 @@
-   🏆**DAAD **🏆                              
+**DAAD**🏆                              
    
    •The German Academic Exchange Service, or DAAD (German: Deutscher Akademischer Austauschdienst), was founded in 1925 and is the largest German support organisation in the field of international academic co-operation.    
    •DAAD is a private, federally funded and state-funded, self-governing national agency of the institutions of higher education in Germany, representing 365 German higher education institutions (100 universities and technical universities, 162 general universities of applied sciences, and 52 colleges of music and art).                            
