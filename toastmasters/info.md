@@ -1,5 +1,5 @@
 
-   ***upcoming toastmasters*** 
+**upcoming toastmasters**
 the meet we held on 7th aug 2021 few information  
 	
 	"CleanHand Beginner      
@@ -20,4 +20,11 @@ Theme:  How to engage audience"
 	Grammarian (2-3 mins)                         :	bhagya shree   
 	Ah Counter (1-2 mins)                         :	Mayuri   
 	Timer (1-2 mins)                              :	pavithra   
-````````````````````````````````````````````````````````````````````````````````````````````````````````
+	
+------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+**second algomagnet meet **   
+![image](https://user-images.githubusercontent.com/85113970/130435655-1a8458de-9823-478b-8286-dea1abd4d175.png)
+
+
+
+
