@@ -59,3 +59,4 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[16.Why do array indexes start with 0 (zero) in many programming languages?](https://www.quora.com/Why-do-array-indexes-start-with-0-zero-in-many-programming-languages)     
        
 --------------------------------------------------------------------------------------------------------------------------------                
+💬[17.how we read a program from left to right and right to left](https://www.geeksforgeeks.org/operator-precedence-and-associativity-in-c/)      
