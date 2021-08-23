@@ -71,4 +71,8 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[20.use of & in scanf and not in printf ?](https://www.geeksforgeeks.org/use-scanf-not-printf/)       
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
-💬[21.Different forms of naming conventions ?](https://press.rebus.community/programmingfundamentals/chapter/identifier-names/)        
+💬[21.Different forms of naming conventions ?](https://press.rebus.community/programmingfundamentals/chapter/identifier-names/)         
+
+💬[What algorithm is used in google search ?](https://searchengineland.com/8-major-google-algorithm-updates-explained-282627)    
+
+
