@@ -51,6 +51,6 @@
 ✔16.DAY 16 : Discussed about arrays .                                                        
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------    
-✔17.DAY 17: [second **algomagnet meeting** ](https://youtu.be/bBFrGnXVAe4)   
+✔17.DAY 17: [second **algomagnet meeting** ](https://youtu.be/bBFrGnXVAe4)    ,[ over all information](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/info.md)      
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
