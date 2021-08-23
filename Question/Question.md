@@ -73,6 +73,6 @@ Dereferencing is used to access or manipulate data contained in memory location 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
 💬[21.Different forms of naming conventions ?](https://press.rebus.community/programmingfundamentals/chapter/identifier-names/)         
 
-💬[What algorithm is used in google search ?](https://searchengineland.com/8-major-google-algorithm-updates-explained-282627)    
+💬[22.What algorithm is used in google search ?](https://searchengineland.com/8-major-google-algorithm-updates-explained-282627)    
 
 
