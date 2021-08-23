@@ -45,6 +45,6 @@ Theme: "how to be consistent towards our **goals**
 	
 •And our special guest **K.S.Sarma** had given a wonderfull speech .Everyone were very much inspired by his speech .
   Summary: "All about the leadership" and "doing work without having saficient needs also",**about the leadership of MAHATMA GANDHI**    
-          The One Point Motivated me lot is **The habit of doing more then paid **   ..
+          The One Point Motivated me lot is  **The habit of doing more then paid **     
 
 
