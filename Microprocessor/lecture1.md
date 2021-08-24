@@ -14,5 +14,14 @@
    1.intel core i7       
    2.intel core i5    
    etc      
-   
+ 
+**The introductions of microprocessor**                                
+👉 the first [microprocessor is 8085 .](https://www.tutorialspoint.com/microprocessor/microprocessor_8085_architecture.htm)                              
+👉 the second and most remarable[microprocessor is 8086.](https://www.tutorialspoint.com/microprocessor/microprocessor_8086_overview.htm)         
+                   some more in 86 family 
+                   80186  
+                   80286      
+                   80386          
+                   80486     
+    80586  p1 is called pentian p1 from here **we became to use multimedia and many more things like video games**  etc .                   
    
