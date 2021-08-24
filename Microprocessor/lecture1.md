@@ -4,8 +4,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------       
 **The things I grasseped from this lecture**        
 ◾ Microprocessor is also known as μp .       
-◾ We need processors in programs .     
-   ▫ examples of small programs use of microprocessor
+◾ We need processors in programs .    
+
+   ▫ examples of small programs use of microprocessor                                                         
    1.Traffic signals .                
    2.Railways information in their screens.   
    
