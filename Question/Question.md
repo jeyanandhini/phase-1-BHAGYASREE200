@@ -76,4 +76,4 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[22.What algorithm is used in google search ?](https://searchengineland.com/8-major-google-algorithm-updates-explained-282627)    
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
-💬[23 . what is ment by silicon valley ?](https://en.wikipedia.org/wiki/Silicon_Valley) [and why it is called as silicon valley ](  https://www.businessinsider.in/tech/heres-the-story-behind-how-silicon-valley-got-its-name/articleshow/62000682.cms)    
+💬[23 . what is ment by silicon valley ?](https://en.wikipedia.org/wiki/Silicon_Valley) [and why it is called as silicon valley ?](  https://www.businessinsider.in/tech/heres-the-story-behind-how-silicon-valley-got-its-name/articleshow/62000682.cms)    
