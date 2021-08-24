@@ -30,7 +30,6 @@
  computer contain many input and output devices and **cpu** the mother board  contains in middle we have fat chip inside we can see **-microprocessor-**                  
  
  --------------------------------------------------------------------------------------------------------------------------------------------------------                    
-  
 **Now we discuss about memory **       
    1. primary memory             
    2. secondary memory                          
