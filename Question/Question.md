@@ -76,6 +76,12 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[22.What algorithm is used in google search ?](https://searchengineland.com/8-major-google-algorithm-updates-explained-282627)    
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
-💬[23 . what is ment by silicon valley ?](https://en.wikipedia.org/wiki/Silicon_Valley) [and why it is called as silicon valley ?](  https://www.businessinsider.in/tech/heres-the-story-behind-how-silicon-valley-got-its-name/articleshow/62000682.cms)       
-💬[24.what does it means **boot** a computer?](https://www.lifewire.com/what-does-booting-mean-2625799)    
-💬[25.what is punch card ?](https://www.computerhope.com/jargon/p/punccard.htm)  [how big it is?](https://en.wikipedia.org/wiki/Punched_card#:~:text=Card%20size%20is%2073,from%20square%20to%20round%20corners.)    
+💬[23 . what is ment by silicon valley ?](https://en.wikipedia.org/wiki/Silicon_Valley) [and why it is called as silicon valley ?](  https://www.businessinsider.in/tech/heres-the-story-behind-how-silicon-valley-got-its-name/articleshow/62000682.cms)    
+
+💬[24.what does it means **boot** a computer?](https://www.lifewire.com/what-does-booting-mean-2625799)       
+
+💬[25.what is punch card ?](https://www.computerhope.com/jargon/p/punccard.htm)  [how big it is?](https://en.wikipedia.org/wiki/Punched_card#:~:text=Card%20size%20is%2073,from%20square%20to%20round%20corners.)      
+
+💬[26.what is the difference between **register**   and **cache** ?](https://anydifferencebetween.com/difference-between-cache-and-register/)    
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------      
