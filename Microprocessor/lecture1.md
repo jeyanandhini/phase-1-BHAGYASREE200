@@ -27,10 +27,10 @@
     
  ---------------------------------------------------------------------------------------------------------------------------------------------------------         
  **The exact  location of microprocessor**                           
- computer contain many input and output devices and **cpu** the mother board  contains in middle we have fat chip inside we can see **-microprocessor-**                  
+ computer contain many input and output devices and **cpu** the mother board  contains in middle we have fat chip inside we can see **_microprocessor_**                  
  
  --------------------------------------------------------------------------------------------------------------------------------------------------------                    
-**Now we discuss about memory **       
+**Now we discuss about _memory_ **       
    1. primary memory             
    2. secondary memory                          
    
