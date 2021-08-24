@@ -23,5 +23,11 @@
                    80286      
                    80386          
                    80486     
-    80586  p1 is called pentian p1 from here **we became to use multimedia and many more things like video games**  etc .                   
+    80586  p1 is called pentian p1 from here **we became to use multimedia and many more things like video games**  etc .      
+    
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------         
+ **The exact  location of microprocessor**                           
+ computer contain many input and output devices and **cpu** contains mother board in middle we have fat chip inside we can see **-microprocessor-**                  
+ 
+ --------------------------------------------------------------------------------------------------------------------------------------------------------                    
    
