@@ -76,9 +76,9 @@ total clarity about how images and movies stored [pixels](https://www.bbc.co.uk/
 ![image](https://user-images.githubusercontent.com/85113970/130770180-4ef46515-e53e-4f20-8418-ad25fffd4af1.png)
 
 
-**power of 2**         
+[**power of 2**  ](https://www.coursehero.com/file/8690660/Powers-of-2-Table/)         
 
-![image](https://user-images.githubusercontent.com/85113970/130770738-6e5a2cf9-f188-439b-8bd2-80d640f86edc.png)
+
 
 
 
