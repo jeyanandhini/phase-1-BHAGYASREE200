@@ -54,3 +54,5 @@
 ✔17.DAY 17: [second **algomagnet meeting** ](https://youtu.be/bBFrGnXVAe4)    ,[ over all information](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/info.md)      
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+✔18.DAY 18 : Researched about [famous persons in computer world](
