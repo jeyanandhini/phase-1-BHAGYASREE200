@@ -36,8 +36,10 @@
    2. secondary memory                          
    
    but here we are discussing about primary memory                  
-   1.RAM    
+   1.RAM   
+   ![image](https://user-images.githubusercontent.com/85113970/130771834-2df02d40-d4f0-4921-b82e-77d3a13aaf2e.png)                   
    2.ROM 
+   ![image](https://user-images.githubusercontent.com/85113970/130771916-28165c5c-ebc3-4445-9194-d91e174d3a68.png)             
    
 **RAM** stands for random access memory               
 It is divided into three sub groups               
@@ -79,6 +81,10 @@ total clarity about how images and movies stored [pixels](https://www.bbc.co.uk/
 [**power of 2**  ](https://www.coursehero.com/file/8690660/Powers-of-2-Table/)                          
 
 [**bus**](https://www.geeksforgeeks.org/bus-organization-of-8085-microprocessor/#:~:text=Bus%20is%20a%20group%20of,are%20three%20types%20of%20buses.&text=It%20is%20a%20group%20of%20conducting%20wires%20which%20carries%20address%20only.)                                    
+![image](https://user-images.githubusercontent.com/85113970/130771696-dbded4b2-d88d-48c3-ada4-5d4dd1c5798e.png)            
+
+
+**wonderfull lecture **       
 
 
 
