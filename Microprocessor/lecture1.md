@@ -41,6 +41,6 @@
    
 **RAM** stands for random access memory               
 It is divided into three sub groups               
-**_s ram _**     **_d ram_**    **_d ram_**              
+**_s ram _**                                                         **_d ram_**                                                                           **_sd ram_**              
 S RAM stands for static random access memory,its is very fast ,and stored in flipflops(A flip-flop is a device which stores a single bit (binary digit) of data; one of its two states represents a "one" and the other represents a "zero".)       
 
