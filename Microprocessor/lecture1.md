@@ -76,7 +76,9 @@ total clarity about how images and movies stored [pixels](https://www.bbc.co.uk/
 ![image](https://user-images.githubusercontent.com/85113970/130770180-4ef46515-e53e-4f20-8418-ad25fffd4af1.png)
 
 
-[**power of 2**  ](https://www.coursehero.com/file/8690660/Powers-of-2-Table/)         
+[**power of 2**  ](https://www.coursehero.com/file/8690660/Powers-of-2-Table/)                          
+
+[**bus**](https://www.geeksforgeeks.org/bus-organization-of-8085-microprocessor/#:~:text=Bus%20is%20a%20group%20of,are%20three%20types%20of%20buses.&text=It%20is%20a%20group%20of%20conducting%20wires%20which%20carries%20address%20only.)                                    
 
 
 
