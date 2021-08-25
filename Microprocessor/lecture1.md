@@ -50,4 +50,35 @@ SD RAM stands for synchronous dynamic random access memory .
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------               
 
-**every thing in microprocessor is stored as zeros and ones**
+**every thing in microprocessor is stored as zeros and ones**                        
+
+
+total clarity about how images and movies stored [pixels](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z2tgr82)               
+1 bit has 2 shades 
+2 bit has 4 shades 
+3 bit has 8 shades              
+4 bit has 16 shades      and so on .........................                                      
+
+**_in the world all multimedias are running with 0's and 1's _**               
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------            
+
+**How microprocessor is working for execution of programs **                   
+   
+   INSTRUCTION CYCLE   
+   1. [FETCH ](https://searchsqlserver.techtarget.com/definition/fetch)             
+   2. [DECODE](https://en.wikipedia.org/wiki/Instruction_cycle)    
+   3. [EXECUTE](https://www.intel.com/content/dam/www/program/education/us/en/documents/the-journery-inside/microprocessor/tji-microprocessors-handout2.pdf)            
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------                          
+**hexadecimals**   
+  
+![image](https://user-images.githubusercontent.com/85113970/130770180-4ef46515-e53e-4f20-8418-ad25fffd4af1.png)
+
+
+**power of 2**         
+
+![image](https://user-images.githubusercontent.com/85113970/130770738-6e5a2cf9-f188-439b-8bd2-80d640f86edc.png)
+
+
+
