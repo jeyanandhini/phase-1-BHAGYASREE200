@@ -44,5 +44,10 @@ It is divided into three sub groups
 **_S RAM _**                    
 **_D RAM_**                     
 **_SD RAM_**              
-S RAM stands for static random access memory,its is very fast ,and stored in flipflops(A flip-flop is a device which stores a single bit (binary digit) of data; one of its two states represents a "one" and the other represents a "zero".)       
+S RAM stands for static random access memory,its is very fast ,and stored in flipflops(A flip-flop is a device which stores a single bit (binary digit) of data; one of its two states represents a "one" and the other represents a "zero".)                                    
+D RAM stands for dynamic random access memory,its is less faster then static,and stored in capacitors (A capacitor is a component made of two or sets of two conductive plates with a thin insulator between them and wrapped in a ceramic and plastic container. )                                        
+SD RAM stands for synchronous dynamic random access memory .                                                   
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------               
+
+**every thing in microprocessor is stored as zeros and ones**
