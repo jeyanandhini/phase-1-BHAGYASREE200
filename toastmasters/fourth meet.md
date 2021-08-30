@@ -34,10 +34,6 @@ As my role is evaluator
        
      •He can improve in some issues .
        1. can use hand gestures .
-       2. can give some gap between speech.      
-       
-       
-       
----------------------------------------------------------------------------------------------------------------------------------------------------                          
+       2. can give some gap between speech.                     
 
 
