@@ -32,9 +32,11 @@ As my role is evaluator
        He discussed about his past experiences which is very impacting o everyone .           
        And about his school experiences ,as he came across his worst days also .           
        
-       He can improve in some issues .
+     •He can improve in some issues .
        1. can use hand gestures .
-       2. can give some gap between speech.              
+       2. can give some gap between speech.      
+       
+       
        
 ---------------------------------------------------------------------------------------------------------------------------------------------------                          
 
