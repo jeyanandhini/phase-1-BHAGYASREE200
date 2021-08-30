@@ -64,6 +64,7 @@
 ✔20.DAY 20 :[Its movie day ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/movie%20days/review.md)      
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------   
-✔21.DAY 21 : got an idea about [binary search](https://www.geeksforgeeks.org/binary-search/) 
+✔21.DAY 21 : [got an idea about Binary search ,Sorting, Sliding window ,Two pointers ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2021.md)      
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
