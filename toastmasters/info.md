@@ -22,7 +22,7 @@ Theme:  "How to engage audience"
 	Timer (1-2 mins)                              :	pavithra   
 	
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------    
-**second algomagnet meet **   
+**third algomagnet meet **   
 
 the meet held on 22nd aug 2021 few information .   
 
