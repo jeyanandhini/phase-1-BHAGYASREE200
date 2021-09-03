@@ -42,11 +42,11 @@ listner will ask the questions in the end.
 ------------------------------------------------------------------------------------------------------------------------            
  personal mastery.
  
- 1️⃣ Self  awareness 
- 2️⃣Self  management 
- 3️⃣ Step  Social awareness 
- 4️⃣Step  Relationship management 
- 5️⃣Step  Emotional Intelligence 
+ 1️⃣ Self  awareness                      
+ 2️⃣Self  management                          
+ 3️⃣ Step  Social awareness                            
+ 4️⃣Step  Relationship management                        
+ 5️⃣Step  Emotional Intelligence            
 
 ---------------------------------------------------------------------------------------------------------------------
 *Its a wounderful section ,interaction with foregin people*  🤗               
