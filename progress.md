@@ -23,7 +23,8 @@
         [vi](https://en.wikipedia.org/wiki/Vi) ,[Sublime text](https://en.wikipedia.org/wiki/Sublime_Text) ,new concept discussed and got an idea.              
      
 ---------------------------------------------------------------------------------------------------------------------------------------------------              
-✔ 8. DAY 8: Started pointers .  
+✔ 8. DAY 8:[ Started pointers .](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/pointers/problems.c)        
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------             
 ✔ 9. DAY 9: normal class .       
