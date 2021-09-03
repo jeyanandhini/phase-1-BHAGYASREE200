@@ -13,7 +13,7 @@
 ✔ 4.  DAY 4 : Discussed about the upcoming three days training and the syllabus of 3rd semester     
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------                        
-✔ 5.  DAY 5 : preparing for the first  toastmasters meet but i am very munch nervous ,hopefully it will be better .   
+✔ 5.  DAY 5 : preparing for the [first  toastmasters meet](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/info.md)     but i am very munch nervous ,hopefully it will be better .   
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------           
 ✔ 6.  DAY 6: SUNDAY FUNDAY NO WORK ONLY ENJOY       
