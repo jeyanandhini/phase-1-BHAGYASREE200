@@ -12,9 +12,9 @@ Rohit nori              :               sergeant at arms
 **Major Roles and Role Takers**                                                 	                                                            
 🧨Bhagya sree zoom master spot light                                                                               
 🧨love case clapmaster                                                                                                                                                                         
-   General evaluator (3-4mins)                       :suraj                                                                                                                                      		
-   AMOD             (8-9 mins )                      :kartik                                                                                                                                 	
-   TTM              (15 mins)                        :anjura                                                                                                                                                                                                                                                                            	
+   General evaluator (3-4mins):suraj                                                                                                                                                          		
+   AMOD(8-9 mins ):kartik                                                                                                                                                                          	
+   TTM(15 mins):anjura                                                                                                                                                                                                                                                                                                                                        	
 **Speakers & Evaluators**                                                                                                                                                                            
 Speaker 1   (5-7 mins)                 : Ankit sir	                                                                                                                                             	
 Speaker 2   (5-7 mins)                 : Chayan	                                                                                                                                                
