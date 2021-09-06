@@ -24,6 +24,7 @@ Speaker 2   (5-7 mins)                 : Chayan
 evaluator 2 (2-3 mins)                 :  Rohit nori  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/85113970/132162185-111668fb-c5b0-4629-84bf-0641d2fc3194.png)
 
 **TAG Team (Objective Evaluators)**		                                                                                                                             
  Grammerian    :      pavithra                                                                                                                                        
@@ -39,6 +40,7 @@ juli, ruman,:	give reminder on the group for people to join
 pirsa	    :   increasing engagement on group by reminding club members to respond    
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/85113970/132162140-d5ae4edf-cdeb-4b03-8d9e-3fe4d2675716.png)
 
 **word of the day** - oblivious		                                                                                                                                                               
 **meaning** - not conscious or concerned about something happening around you.	                                                                        	                                        
