@@ -9,9 +9,7 @@ Rohit nori              :               sergeant at arms
 **SPECIAL GUEST       :   DR. SUMAN DEB SIR🥇🏆**                
 
 
-**Major Roles and Role Takers**                                                 	                                                            
-🧨Bhagya sree zoom master spot light                                                                               
-🧨love case clapmaster                                                                                                                                                                         
+**Major Roles and Role Takers**                                                 	                                                                                                                                                                                                                                
 General evaluator (3-4mins):suraj                                                                                                                                                          		
 AMOD(8-9 mins ):kartik                                                                                                                                                                          	
 TTM(15 mins):anjura                                                                                                                                                                                                                                                                                                                                        	
