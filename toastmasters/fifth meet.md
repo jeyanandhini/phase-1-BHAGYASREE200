@@ -34,6 +34,15 @@ pirsa	    :   increasing engagement on group by reminding club members to respon
 ✒ Take responsibly about sex region and politics.                                                                                   
 ✒ lastly give a round of applause by signing claps.                                                                                           
 ✒ keeping the camera on in a meeting also encourages others and makes the session more interacting.                                                                              
-✒ always take the chance ko speak, it will help in improving communication skill and socialising.                                                                                     
+✒ always take the chance ko speak, it will help in improving communication skill and socialising.   
+
+
+••And our special guest **DR.SUMAN DEB SIR** had given a wonderfull speech .Everyone were very much inspired by his speech.
+Designation:  **Assistant Professor**                             
+Qualification:	**Ph.D in CSE**                               
+Areas of Interest:**Artificial Intelligence, Machine learning, Human Computer Interaction**        
+![image](https://user-images.githubusercontent.com/85113970/132161712-e13cd7c7-d061-426a-86bf-74dafe8e8b49.png)
+
+**AFTER SUCCESSFUL FINISHING A PICTURE WITH TEAM**
 ![image](https://user-images.githubusercontent.com/85113970/132161355-12e14ead-bf6d-4a34-b941-4516b980ca73.png)
 
