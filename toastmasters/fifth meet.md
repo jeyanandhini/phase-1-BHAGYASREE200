@@ -10,8 +10,8 @@ Rohit nori              :               sergeant at arms
 **Major Roles and Role Takers**                                                                                                                                           
 General evaluator (3-4mins):suraj                                                                                                                                            
 AMOD(8-9 mins ):kartik                                                                                                                                                             
-TTM(15 mins):anjura                                                                                                                                              	
-**Speakers & Evaluators**                                                                                                                                                
+TTM(15 mins):anjura                                                                                                                                                               	
+**Speakers & Evaluators**                                                                                                                                                                     
 Speaker 1   (5-7 mins)                 : Ankit sir	                                                                                                                
 Speaker 2   (5-7 mins)                 : Chayan	                                                                                                                
 evaluator 2 (2-3 mins)                 :  Rohit nori                                                                                                                
@@ -35,4 +35,5 @@ pirsa	    :   increasing engagement on group by reminding club members to respon
 ✒ lastly give a round of applause by signing claps.                                                                                           
 ✒ keeping the camera on in a meeting also encourages others and makes the session more interacting.                                                                              
 ✒ always take the chance ko speak, it will help in improving communication skill and socialising.                                                                                     
+![image](https://user-images.githubusercontent.com/85113970/132161355-12e14ead-bf6d-4a34-b941-4516b980ca73.png)
 
