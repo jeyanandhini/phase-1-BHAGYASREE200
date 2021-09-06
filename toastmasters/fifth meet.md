@@ -37,7 +37,7 @@ pirsa	    :   increasing engagement on group by reminding club members to respon
 ✒ always take the chance ko speak, it will help in improving communication skill and socialising.   
 
 
-••And our special guest **DR.SUMAN DEB SIR** had given a wonderfull speech .Everyone were very much inspired by his speech.
+••And our special guest **DR.SUMAN DEB SIR** had given a wonderfull speech .Everyone were very much inspired by his speech.                                                     
 Designation:  **Assistant Professor**                             
 Qualification:	**Ph.D in CSE**                               
 Areas of Interest:**Artificial Intelligence, Machine learning, Human Computer Interaction**        
