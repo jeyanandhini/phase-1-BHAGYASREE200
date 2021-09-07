@@ -49,7 +49,7 @@ elements after bubble sorting
 11
 23
 32
-0
+
 
 --------------------------------
 Process exited after 13.07 seconds with return value 4
