@@ -11,7 +11,7 @@ for(i=0;i<n;i++)
 {
 scanf("%d",&arr[i]);
 }
-for(i=1;i<=n-1;i++)
+for(i=1;i<n-1;i++)
 {
 temp=arr[i];
 j=i-1;
