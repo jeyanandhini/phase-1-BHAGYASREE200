@@ -85,3 +85,6 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[26.what is the difference between **register**   and **cache** ?](https://anydifferencebetween.com/difference-between-cache-and-register/)    
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------      
+
+💬[27.Modular code](http://singlepageappbook.com/maintainability1.html)                 
+
