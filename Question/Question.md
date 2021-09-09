@@ -86,5 +86,8 @@ Dereferencing is used to access or manipulate data contained in memory location 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------      
 
-💬[27.Modular code](http://singlepageappbook.com/maintainability1.html)                 
+💬[27.Modular code](http://singlepageappbook.com/maintainability1.html)                        
+
+💬[Why do strings in C need to be null terminated?](https://stackoverflow.com/questions/2221304/why-do-strings-in-c-need-to-be-null-terminated)                            
+
 
