@@ -90,4 +90,7 @@ Dereferencing is used to access or manipulate data contained in memory location 
 
 💬[28.Why do strings in C need to be null terminated?](https://stackoverflow.com/questions/2221304/why-do-strings-in-c-need-to-be-null-terminated)                            
 
+💬[29.Are C strings always null terminated, or does it depend on the platform?](https://softwareengineering.stackexchange.com/questions/344603/are-c-strings-always-null-terminated-or-does-it-depend-on-the-platform)                                                    
+
+
 
