@@ -1,13 +1,13 @@
 #include<stdio.h>
  void main()
   {
-    int a[5][6];
-      int i;
-      int j;
-      int k;
-      k = 0;
-      int temp;
-      int flag;
+   int a[5][6];
+   int i;
+   int j;
+   int x;
+   x = 0;
+   int temp;
+   int flag;
     
    a[0][0] = 1947;
    printf(" The elements in the array are: \n");
@@ -16,12 +16,11 @@
     	{
          	for(j=0; j<6; j++)
           	{
-            		temp = a[0][0] + k;
+            		temp = a[0][0] + x;
             		printf("%d \t", temp);
             		if(temp == 1971)
                         flag = 1;
-             
-                         k++;
+                         x++;
            	}
         	printf("\n");
      	}
