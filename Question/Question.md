@@ -92,5 +92,7 @@ Dereferencing is used to access or manipulate data contained in memory location 
 
 💬[29.Are C strings always null terminated, or does it depend on the platform?](https://softwareengineering.stackexchange.com/questions/344603/are-c-strings-always-null-terminated-or-does-it-depend-on-the-platform)                                                    
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------           
+💬[30.How enter key works in computer?](https://en.wikipedia.org/wiki/Enter_key)                       -->
 
 
