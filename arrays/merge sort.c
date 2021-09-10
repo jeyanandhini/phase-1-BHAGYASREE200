@@ -5,18 +5,28 @@ int main()
     int b[6]={2,4,6,8,10,12};
     int c[12];
     int i=0,j=0,k=0;
-    while(i<6 && j<6&&k<12){
-        if(a[i]<b[j]){
+    while(i<6 && j<6 && k<12)
+    {
+        if(a[i]<b[j])
+        {
             c[k]=a[i];
             i++;
             k++;
         }
-        else {
+        else 
+        {
             c[k]=b[j];
             j++;
             k++;
         }
-    }for(;j<=6;j++)
+    }
+     for(i=0;i<=6;i++)
+        {
+            c[k]=a[i];
+            k++;
+            i++;
+        }
+     for(j;j<=6;j++)
         {
             c[k]=b[j];
             k++;
