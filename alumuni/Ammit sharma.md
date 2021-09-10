@@ -14,21 +14,21 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **Lessons**                            
 
-• *Attitude* always terms us 😎.                       
+• **Attitude** always terms us 😎.                       
 •Invest your time in identify your strength team🕰 .                                       
-•Working with *outstanding team* makes much more positive➕ different than outstanding individuals.                           
-•Face tough😥 situations and make them better.                    
+•Working with **outstanding team** makes much more positive➕ different than outstanding individuals.                           
+•Face **tough😥 situations** and make them better.                    
 •Take time to strategys and put in place a long time.                                               
 •Balance everything🏁.                                  
 •Spend 3rd of time in making connection.                                           
-•*Leadership* stores in us we can get it out by showing our success.                             
+•**Leadership** stores in us we can get it out by showing our success.                             
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------               
 **SUCCESSFUL LEADERS CONCEPT**                                            
 
 •Invest a long time for success .                
 •Do tough  jobs and do tough things so that you can get your muscles strong💪.                                        
-•Don't take the short cuts for success .                                     
+•Don't take the **short cuts** for success .                                     
 •**Performance** is the king 👑.keep perform in what you do.                      
 •**Empower** the people around us.                   
 
