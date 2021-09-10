@@ -2,5 +2,10 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------                
 
-![Screenshot (254)](https://user-images.githubusercontent.com/85113970/132790956-ebd5ebab-93e0-4faf-9cd5-dcb17cccbbf6.png)
+![Screenshot (254)](https://user-images.githubusercontent.com/85113970/132790956-ebd5ebab-93e0-4faf-9cd5-dcb17cccbbf6.png)                      
+•Amit Sharma, Global COO, IBM, GBS, and alumnus of PGP 1992-94 at inauguration of PGP 2019-21 at IIMB                                    
+
+------------------------------------------------------------------------------------------------------------------------------------------------------               
+
+**🔱 ABOUT CARRER**             
 
