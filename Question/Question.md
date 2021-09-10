@@ -95,4 +95,6 @@ Dereferencing is used to access or manipulate data contained in memory location 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------           
 💬[30.How enter key works in computer?](https://en.wikipedia.org/wiki/Enter_key)                       -->
 
+💬[31 .foobar ](https://www.freecodecamp.org/news/the-foobar-challenge-googles-hidden-test-for-developers-ed8027c1184/)                
+
 
