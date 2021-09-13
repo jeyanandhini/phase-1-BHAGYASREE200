@@ -48,6 +48,11 @@ listner will ask the questions in the end.
  4️⃣Step  Relationship management                        
  5️⃣Step  Emotional Intelligence            
 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/85113970/133062637-39e87547-ac7d-4014-8d42-b0435df7e881.png)
+
 ---------------------------------------------------------------------------------------------------------------------
 *Its a wounderful section ,interaction with foregin people*  🤗               
 
