@@ -3,9 +3,10 @@
 the meet held on 22nd aug 2021 few information .   
 Theme: **how to be consistent towards our **goals****            
 
-	Date      :	22 Aug 2021, Sat                                   
-	Time	    : 7:30- 8:30 PM                               
-	Location	: google meet                    
+Date      :	22 Aug 2021, Sat                                                           
+Time	    : 7:30- 8:30 PM                                                               
+Location	: google meet                
+
 ---------------------------------------------------------------------------------------------------------------------------------	
 **Major Roles and Role Takers**                                                                                                    	
 	General Evaluator(3-4mins)	              : Madhumitha .s                          
