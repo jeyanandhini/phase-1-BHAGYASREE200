@@ -1,5 +1,5 @@
 
-#Third algomagnet meet
+*_Third algomagnet meet_* 
 
 the meet held on 22nd aug 2021 few information .   
 Theme: **how to be consistent towards our **goals****            
