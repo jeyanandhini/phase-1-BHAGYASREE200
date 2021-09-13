@@ -8,21 +8,21 @@ Time	    : 7:30- 8:30 PM
 Location	: google meet                
 
 ---------------------------------------------------------------------------------------------------------------------------------	
-**Major Roles and Role Takers**                                                                                                    	
-	General Evaluator(3-4mins)	              : Madhumitha .s                          
-	Toastmaster of the Day (8-9 mins )            :	Suraj                                      
-	Table Topic Master (15 mins)	                :Anjura                                                        
+**Major Roles and Role Takers**                                                                                                                                  	
+General Evaluator(3-4mins)	              : Madhumitha .s                          
+Toastmaster of the Day (8-9 mins )            :	Suraj                                      
+Table Topic Master (15 mins)	                :Anjura                                                        
 	
 ----------------------------------------------------------------------------------------------------------------------------
-  **Speakers & Evaluators**                                                                                          	
-	Prepared Speaker (5-7 mins)                   :	 Bhagyasree                                       
-	Speech Evaluator (2-3 mins)	              : Pavitra                                   
+  **Speakers & Evaluators**                                                                                                           	
+Prepared Speaker (5-7 mins)                   :	 Bhagyasree                                       
+Speech Evaluator (2-3 mins)	              : Pavitra                                   
 	
 --------------------------------------------------------------------------------------------------------------------------------                   
  **TAG Team (Objective Evaluators)**                                                                	                  
-	Grammarian (2-3 mins)                         :	Simanta                          
-	Ah Counter (1-2 mins)                         :	Swapnil sagar                                  
-	Timer (1-2 mins)                              :	pavithra                                             
+Grammarian (2-3 mins)                         :	Simanta                          
+Ah Counter (1-2 mins)                         :	Swapnil sagar                                  
+Timer (1-2 mins)                              :	pavithra                                             
 	
 --------------------------------------------------------------------------------------------------------------------------------         
 
