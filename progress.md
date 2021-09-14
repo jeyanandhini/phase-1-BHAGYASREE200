@@ -116,4 +116,8 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------       
 
-✔ 36. DAY 36 : [Sixth Algomagnets Meet With NITA Alumni Arijit SenChaudhuri sir ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/sixth%20meet.md)
+✔ 36. DAY 36 : [Sixth Algomagnets Meet With NITA Alumni Arijit SenChaudhuri sir ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/sixth%20meet.md)   
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------           
+
+
