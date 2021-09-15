@@ -7,7 +7,16 @@
 the helping others break the boundaries and that's exactly what she did in this meet.               
 
 •Learning shouldn't be stop!  meeting people who use to share same thoughts in college as you do just makes it more                    
-easy to connect .its a great learning .                        
+easy to connect .its a great learning .                 
+
+• Wonderful session with alumni at italy with sister who make great in life which happens very rare ❤.             
+
+•Had an amazing session on management  and it is a great opportunity nad yeah u were right about that things cannot be bought with            
+money and we are fortunate enough to attend these session .          
+
+•"If sister did it ,we can also do"   
+A session that trew light on everything a student in 3rd semester would've ever needed to hear from someone who achieved what she wanted.   
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------                  
