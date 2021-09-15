@@ -15,9 +15,13 @@ easy to connect .its a great learning .
 money and we are fortunate enough to attend these session .          
 
 •"If sister did it ,we can also do"   
-A session that trew light on everything a student in 3rd semester would've ever needed to hear from someone who achieved what she wanted.   
+A session that trew light on everything a student in 3rd semester would've ever needed to hear from someone who achieved what she wanted.        
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------             
+• As we dicussed about many topics  for an hour and then there was the end of one successful                   
+session which gave a lot of clearity to many aspirants who were thinking of higher studies. And a special                    
+thanks to "Ankit sir" for conducting such type of sessions , these are the real gems that will help our thinking               
+expand exponentially and a rapid growth in us.                           
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------                  
 
