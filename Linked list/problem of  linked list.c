@@ -34,3 +34,9 @@ int main()
  
     return 0;
 }
+
+//output
+10  11
+--------------------------------
+Process exited after 0.6084 seconds with return value 0
+Press any key to continue . . .
