@@ -131,8 +131,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------    
 
-✔40.DAY 40 : [LINKED LIST CONCEPT](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/link%20list.md)   
-, [problem of linked list](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/problem%20of%20%20linked%20list.c)   
+✔40.DAY 40 : [LINKED LIST CONCEPT](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/link%20list.md)   , [problem of linked list](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/problem%20of%20%20linked%20list.c)   
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------     
