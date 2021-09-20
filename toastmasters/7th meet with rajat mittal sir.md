@@ -34,7 +34,8 @@ Zoom master	:dwipshikha
 	name master	:swapnil                                                                         
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-**About our guest**                        
+### About our guest  ###                     
+
  
 ![image](https://user-images.githubusercontent.com/85113970/133979113-2f81f65e-f635-4f9e-b2af-55721562900a.png)                              
 Analyst at Goldman Sachs | IIT BHU | GSoC'19 | Ex Research Intern NTU Singapore | Ex Intern ITRI Taiwan                   
