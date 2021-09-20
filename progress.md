@@ -142,6 +142,6 @@
 ✔42.DAY 42: weekend break  .                   
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------             
-
+✔43.DAY 43:[AlgoMagnet Communication session with Goldman Sachs Analyst Rajat Mittal Sir](
 
 
