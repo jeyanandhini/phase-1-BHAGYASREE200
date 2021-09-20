@@ -1,6 +1,6 @@
 ### AlgoMagnet Communication session with Goldman Sachs Analyst Rajat Mittal Sir ###                            
 --------------------------------------------------------------------------------------------------------------------------------------------------------  
-	**Guest                	rajat mittal sir**                                                                                               
+**Guest                	rajat mittal sir**                                                                                                                            
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 **Major Roles and Role Takers**                                                                                              	
@@ -22,14 +22,14 @@
 	Timer (1-2 mins)	:lovecase   
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-	SAA:	chayan                                   
-	word of the day	**Gufffaw**                                                      
-	meaning	**Burst of laughter by people**                                                                 
-	usage	**They made my day with a guffaw.**                                                   
+SAA:	chayan                                   
+word of the day	**Gufffaw**                                                      
+meaning	**Burst of laughter by people**                                                                 
+usage	**They made my day with a guffaw.**                                                   
   
   --------------------------------------------------------------------------------------------------------------------------------------------------------
-	**Other Roles**                                       	
-	Zoom master	:dwipshikha                                                          
+**Other Roles**                                       	
+Zoom master	:dwipshikha                                                          
 	Clapmaster	:mayuri                                                    
 	name master	:swapnil                                                                         
 
