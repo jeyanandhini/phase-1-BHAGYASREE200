@@ -38,32 +38,32 @@
 ✔ 11. **DAY 11 : today we made a toastmasters meet .and finally access to the domain.**                                                  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
-✔ 12. DAY 12 : Discussed more about pointers and many questions were raised and solved in QUESTION.md .            
+✔ 12. **DAY 12 : Discussed more about pointers and many questions were raised and solved in QUESTION.md**                           
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------               
-✔ 13. DAY 13 : FULLY FOCUSED ON BETTER DOCUMENTATION   .        
+✔ 13. **DAY 13 : FULLY FOCUSED ON BETTER DOCUMENTATION.**                               
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------    
-✔ 14. DAY 14 : Studied about arrays [arrays](https://www.geeksforgeeks.org/arrays-in-c-cpp/)           
+✔ 14. **DAY 14 : Studied about arrays** [**arrays**](https://www.geeksforgeeks.org/arrays-in-c-cpp/)           
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-✔15. DAY 15 : Discussed about the internship in [Mitacs](https://www.mitacs.ca/en) and about [pointer arithmetic](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)  and some problems in pointers    
+✔15. **DAY 15 : Discussed about the internship in** [**Mitacs**](https://www.mitacs.ca/en) **and about** [**pointer arithmetic**](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)  **and some problems in pointers**                           
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------    
-✔16.DAY 16 : Discussed about arrays .                                                        
+✔16.**DAY 16 : Discussed about arrays**                                                                            
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------    
-✔17.DAY 17: [second **algomagnet meeting** ](https://youtu.be/bBFrGnXVAe4)    ,[ over all information](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/info.md)      
+✔17.**DAY 17:** [**second **algomagnet meeting** ](https://youtu.be/bBFrGnXVAe4)    ,[**over all information**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/info.md)      
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✔18.DAY 18 : Researched about [famous persons in computer world](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Famous%20Inventors%20of%20computer%20science/personality.md)       
+✔18.**DAY 18 : Researched about** [**famous persons in computer world**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Famous%20Inventors%20of%20computer%20science/personality.md)       
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------    
-✔19.DAY 19: Deep discussion about subarrays ,sorting,sliding windows .                         
+✔19.**DAY 19: Deep discussion about subarrays ,sorting,sliding windows**                                              
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------       
-✔20.DAY 20 :[Its movie day ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/movie%20days/review.md)      
+✔20.**DAY 20** :[**Its movie day**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/movie%20days/review.md)      
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------   
 ✔21.DAY 21 : [got an idea about Binary search ,Sorting, Sliding window ,Two pointers ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2021.md)      
