@@ -7,7 +7,7 @@
 ✔ 2.  [**DAY 2**](https://github.com/BHAGYASREE200/DOCUMENTATION-OF-ALWAYS-BE-ALERT/blob/main/classworkday2.md)  **Got an idea about **minesweeper****           
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------            
-✔ 3.  [**DAY 3  Assingment](https://en.wikipedia.org/wiki/AppDynamics), [AppDynamics](https://www.appdynamics.com/) ,  [Enbridge](https://en.wikipedia.org/wiki/Enbridge) ,[API](https://en.wikipedia.org/wiki/API) , [SPOJ](https://en.wikipedia.org/wiki/SPOJ) ,knowledged on some new apps which heared today.**      
+✔ 3.  [**DAY 3  Assingment**](https://en.wikipedia.org/wiki/AppDynamics), [**AppDynamics**](https://www.appdynamics.com/) ,  [**Enbridge**](https://en.wikipedia.org/wiki/Enbridge) ,[**API**](https://en.wikipedia.org/wiki/API) , [**SPOJ**](https://en.wikipedia.org/wiki/SPOJ) ,**knowledged on some new apps which heared today.**      
 
       
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------                 
@@ -20,21 +20,22 @@
 ✔ 6.  **DAY 6: SUNDAY FUNDAY NO WORK ONLY ENJOY**.       
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------             
-✔ 7.  DAY 7: [vim](https://www.vim.org/about.php#:~:text=Vim%20is%20a%20highly%20configurable,consider%20it%20an%20entire%20IDE%20.)   ,
-        [vi](https://en.wikipedia.org/wiki/Vi) ,[Sublime text](https://en.wikipedia.org/wiki/Sublime_Text) ,new concept discussed and got an idea.              
+✔ 7.  **DAY 7**: [**vim**](https://www.vim.org/about.php#:~:text=Vim%20is%20a%20highly%20configurable,consider%20it%20an%20entire%20IDE%20.)   ,
+        [**vi**](https://en.wikipedia.org/wiki/Vi) ,[**Sublime text**](https://en.wikipedia.org/wiki/Sublime_Text) ,**new concept discussed and got an idea.**  
+        
      
 ---------------------------------------------------------------------------------------------------------------------------------------------------              
-✔ 8. DAY 8:[ Started pointers .](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/pointers/problems.c)        
+✔ 8. **DAY 8**:[**Started pointers**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/pointers/problems.c)        
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------             
-✔ 9. DAY 9: normal class .       
+✔ 9. **DAY 9: normal class**                
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------            
-✔ 10. [DAY 10](https://www.keybr.com/) Typing practice    
+✔ 10. [**DAY 10**](https://www.keybr.com/) **Typing practice**                                    
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔ 11. DAY 11 : today we made a toastmasters meet .and finally access to the domain .                                
+✔ 11. **DAY 11 : today we made a toastmasters meet .and finally access to the domain.**                                                  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ✔ 12. DAY 12 : Discussed more about pointers and many questions were raised and solved in QUESTION.md .            
