@@ -113,3 +113,7 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[31 .foobar ](https://www.freecodecamp.org/news/the-foobar-challenge-googles-hidden-test-for-developers-ed8027c1184/)                
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+💬[ 32 .**CYCLE DETECTION **](https://en.wikipedia.org/wiki/Cycle_detection)   
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
