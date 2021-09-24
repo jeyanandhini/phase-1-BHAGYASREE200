@@ -114,6 +114,6 @@ Dereferencing is used to access or manipulate data contained in memory location 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-💬[ 32 .**CYCLE DETECTION **](https://en.wikipedia.org/wiki/Cycle_detection)   
+💬[ 32 **CYCLE DETECTION**](https://en.wikipedia.org/wiki/Cycle_detection)   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
