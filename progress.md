@@ -1,10 +1,10 @@
 
 ⌚Daily working progress 📚📖⏱⌛
 
-✔ 1.  [DAY 1](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day1.md)      Researched about **open source**    
+✔ 1.  [**DAY 1**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day1.md)      **Researched about **open source****                
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔ 2.  [DAY 2](https://github.com/BHAGYASREE200/DOCUMENTATION-OF-ALWAYS-BE-ALERT/blob/main/classworkday2.md)  Got an idea about **minesweeper**   
+✔ 2.  [**DAY 2**](https://github.com/BHAGYASREE200/DOCUMENTATION-OF-ALWAYS-BE-ALERT/blob/main/classworkday2.md)  **Got an idea about **minesweeper****           
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------            
 ✔ 3.  [DAY 3  Assingment](https://en.wikipedia.org/wiki/AppDynamics), [AppDynamics](https://www.appdynamics.com/) ,  [Enbridge](https://en.wikipedia.org/wiki/Enbridge) ,[API](https://en.wikipedia.org/wiki/API) , [SPOJ](https://en.wikipedia.org/wiki/SPOJ) ,knowledged on some new apps which heared today. 
