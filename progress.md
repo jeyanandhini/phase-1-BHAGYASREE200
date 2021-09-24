@@ -7,16 +7,17 @@
 ✔ 2.  [**DAY 2**](https://github.com/BHAGYASREE200/DOCUMENTATION-OF-ALWAYS-BE-ALERT/blob/main/classworkday2.md)  **Got an idea about **minesweeper****           
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------            
-✔ 3.  [DAY 3  Assingment](https://en.wikipedia.org/wiki/AppDynamics), [AppDynamics](https://www.appdynamics.com/) ,  [Enbridge](https://en.wikipedia.org/wiki/Enbridge) ,[API](https://en.wikipedia.org/wiki/API) , [SPOJ](https://en.wikipedia.org/wiki/SPOJ) ,knowledged on some new apps which heared today. 
+✔ 3.  [**DAY 3  Assingment](https://en.wikipedia.org/wiki/AppDynamics), [AppDynamics](https://www.appdynamics.com/) ,  [Enbridge](https://en.wikipedia.org/wiki/Enbridge) ,[API](https://en.wikipedia.org/wiki/API) , [SPOJ](https://en.wikipedia.org/wiki/SPOJ) ,knowledged on some new apps which heared today.**      
+
       
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------                 
-✔ 4.  DAY 4 : Discussed about the upcoming three days training and the syllabus of 3rd semester     
+✔ 4.  **DAY 4 : Discussed about the upcoming three days training and the syllabus of 3rd semester**               
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------                        
-✔ 5.  DAY 5 : preparing for the [first  toastmasters meet](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/info.md)     but i am very munch nervous ,hopefully it will be better .   
+✔ 5.  **DAY 5 : preparing for the [first  toastmasters meet](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/info.md)     but i am very munch nervous ,hopefully it will be better .**   
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------           
-✔ 6.  DAY 6: SUNDAY FUNDAY NO WORK ONLY ENJOY       
+✔ 6.  **DAY 6: SUNDAY FUNDAY NO WORK ONLY ENJOY**.       
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------             
 ✔ 7.  DAY 7: [vim](https://www.vim.org/about.php#:~:text=Vim%20is%20a%20highly%20configurable,consider%20it%20an%20entire%20IDE%20.)   ,
