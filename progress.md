@@ -164,7 +164,11 @@
 
 **------------------------------------------------------------------------------------------------------------------------------------------------------------**  
 
-✔47.**DAY 47**:  [AlgoMagnet Communication session with SDE-2 @Amazon Gourav Sir 💕](
+✔47.**DAY 47**:  [**AlgoMagnet Communication session with SDE-2 @Amazon Gourav Sir 💕**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/8th%20meet%20withAlgoMagnet%20Communication%20session%20with%20SDE-2%20%20Gourav%20Sir%20at%20%20amazon.md)    
+
+**------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
 
 
 
