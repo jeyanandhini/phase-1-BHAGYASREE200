@@ -1,72 +1,65 @@
 #include<stdio.h>
-#include<stdlib.h>
+#include<malloc.h>
+
 
 struct node
 {
-	int  data ;
-	struct node*next;
+	int data;
+	struct node* next;
 };
+struct node* head=NULL;
 
 
-void insertLast(struct node **head, int val)
+struct node* getnewnode(int val)
 {
-    struct node *newNode = malloc(sizeof(struct node));
-    newNode->data = val;
-    newNode->next = NULL;
-
-    if(*head == NULL)
-         *head = newNode;
-    else
-    {
-        struct node *lastNode = *head;
-
-        while(lastNode->next != NULL)
-        {
-            lastNode = lastNode->next;
-		}
-        lastNode->next = newNode;
-    }
-
+	struct node* temp;
+	temp= (struct node*)malloc(sizeof(struct node));
+	temp->data =val;
+	temp->next= NULL;
+	return temp;
 }
-
-void printlist(struct node*n)
+insertbeg(int val)
 {
-	while(n != NULL)
+	struct node* ptr;
+	ptr=getnewnode(val);
+	ptr->next=head;
+	head= ptr;
+}
+insertend(int val)
+{
+	struct node* ptr;
+	ptr=getnewnode(val);
+	
+	struct node* run;
+	run=head;
+	while(run->next!=NULL)
 	{
-		printf("%d\n",n->data);
-		n = n->next;
+		run=run->next;	
 	}
+	run->next=ptr;
+	
+}
+printList()
+{
+	struct node* run;
+	run = head;
+	while(run != NULL)
+	{
+		printf("%d -> ",run->data);
+		run = run ->next;
+	}
+	printf("NULL");
 }
 void main()
 {
-	
-  struct node* head;
-  struct node* temp;
-  temp = (struct node*)malloc(sizeof( struct node));
-  temp-> data = 98;
-  temp-> next = NULL;
-  head = temp;
-  struct node* temp1;
-  temp1 = (struct node*)malloc(sizeof( struct node));
-  temp1-> data = 99;
-  temp1-> next = NULL;
-  temp->next=temp1;
-  struct node*temp2;
-  temp2 = (struct node*)malloc(sizeof( struct node));
-  temp2-> data = 100;
-  temp2-> next = NULL;
-  temp1->next=temp2;
-
-  insertLast ( &head,90);
-  printlist(head);
+	insertbeg(6);
+	insertbeg(5);
+	insertbeg(4);
+	insertend(20);
+	printList();
 }
-
 //output
-98
-99
-100
-90
-
+4 -> 5 -> 6 -> 20 -> NULL
 --------------------------------
-Process exited after 0.05524 seconds with return value 0
+Process exited after 0.03757 seconds with return value 4
 Press any key to continue . . .
