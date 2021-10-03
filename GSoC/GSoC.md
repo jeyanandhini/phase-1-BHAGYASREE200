@@ -3,7 +3,8 @@
    
    --------------------------------------------------------------------------------------------------------------------------------------------------           
    
-   ![image](https://user-images.githubusercontent.com/85113970/135738988-4c9f48de-a4c1-4965-8f49-944f4dc28b6b.png)
+   ![image](https://user-images.githubusercontent.com/85113970/135739035-ec9b3775-2f62-49f6-ac66-e0b27e60aeec.png)
+
 
    • [About](https://summerofcode.withgoogle.com/about/)              
    • [Organization](https://summerofcode.withgoogle.com/organizations/?sp-page=2)                                             
