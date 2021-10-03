@@ -21,4 +21,11 @@
 👉**C++**                                                             
  
 --------------------------------------------------------------------------------------------------------------------------------------
-         
+**4** .**Make some projects so that you get used to your favourite tech stack**              
+**5**.**Search for the Organization you want to contribute.**           
+**6**.**Deep dive into that Organization ,join their Discussion,Forums,Understanding their projects in depth**               
+**7** .**S0 its time to start Contributing.**                  
+
+--------------------------------------------------------------------------------------------------------------------------------------            
+                                 ![image](https://user-images.githubusercontent.com/85113970/135740312-f595deec-4bc9-4c25-8020-f6c20711fa0d.png)
+
