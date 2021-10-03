@@ -14,7 +14,7 @@
    **f** .[**Hacktoberfest**](https://hacktoberfest.digitalocean.com/)               
    
 -------------------------------------------------------------------------------------------------------------------------------------- 
-**3** .**Should master any technology of our interest.**
+**3** .**Should master any technology of our interest.**                                 
 👉**web development**                                                              
 👉**Android development**                                                        
 👉**Machine Learning**                                          
