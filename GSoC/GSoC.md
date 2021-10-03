@@ -11,7 +11,7 @@
    •[How it works](https://summerofcode.withgoogle.com/how-it-works/)                                       
    •[Help](https://summerofcode.withgoogle.com/help/)                                             
    •[Projects](https://summerofcode.withgoogle.com/projects/)                                                        
-   •[Get started](https://summerofcode.withgoogle.com/get-started/)                                  
+   •[Get started**](https://summerofcode.withgoogle.com/get-started/)                                  
    
    -----------------------------------------------------------------------------------------------------------------------------------------------------   
    
