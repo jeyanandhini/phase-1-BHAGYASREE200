@@ -121,3 +121,7 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[33.**what hashing algorithm is used for whatsapp?**](https://security.stackexchange.com/questions/120238/which-cryptography-algorithm-is-used-in-whatsapp-end-to-end-security) 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------- 
+💬[34.**best hashing algorithm for strings**](http://www.cse.yorku.ca/~oz/hash.html)          
+
+--------------------------------------------------------------------------------------------------------------------------------------------------   
+
