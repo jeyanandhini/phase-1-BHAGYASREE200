@@ -117,3 +117,7 @@ Dereferencing is used to access or manipulate data contained in memory location 
 💬[ 32 **CYCLE DETECTION**](https://en.wikipedia.org/wiki/Cycle_detection)   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+💬[33.**what hashing algorithm is used for whatsapp?**](https://security.stackexchange.com/questions/120238/which-cryptography-algorithm-is-used-in-whatsapp-end-to-end-security) 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------- 
