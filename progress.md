@@ -190,7 +190,7 @@
 ✔53.**DAY 53** :**ALGOMAGNET COMMUNICATION SESSION**                     
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
-✔54.**DAY 54**:[**reversal of string**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/String/reversal%20of%20string.c)                        
+✔54.**DAY 54**:[**Reversal of string**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/String/reversal%20of%20string.c)                        
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
