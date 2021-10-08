@@ -17,7 +17,7 @@ int i,j;
  for(j=0;j<2;j++)
  {
  	int k;
-	 k= (*((arr + i ) + j) );
+	 k= (*(*(arr + i ) + j) );
 	 
  	 add= add + k;
  	printf("%d\n",add);
@@ -27,9 +27,9 @@ int i,j;
 //output 
 1
 9
-17
-23
+15
+22
 
 --------------------------------
-Process exited after 0.1749 seconds with return value 3
+Process exited after 0.008935 seconds with return value 3
 Press any key to continue . . .
