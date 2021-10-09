@@ -205,3 +205,6 @@
 ✔57.**DAY 57** : **discussed about**  [**spiral traversal**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/spiral%20traversal.c)   **and**        [**2d array 1 to 18 and 18 to 1 rev**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/2d%20array%201%20to%2018%20and%20rev%2018%20%20to%201%20.c)                
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+✔58.**DAY 58** :[**wave traversal**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/wave%20traversal.c)  **and diagonal traversal**            
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
