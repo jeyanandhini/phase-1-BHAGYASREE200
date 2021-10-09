@@ -50,7 +50,7 @@ for(x=97; x<=122; x++)
  💬[**12.Dereferencing pointer ?**](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/dereference.html)  
    
 **answer**  
-**Dereferencing is used to access or manipulate data contained in memory location pointed to by a pointer. *(asterisk) is used with pointer variable when dereferencing the pointer variable, it refers to variable being pointed, so this is called dereferencing of pointers .**   
+**Dereferencing is used to access or manipulate data contained in memory location pointed to by a pointer.** **(asterisk) is used with pointer variable when dereferencing the pointer variable, it refers to variable being pointed, so this is called dereferencing of pointers .**   
 
 
 ---------------------------------------------------------------------------------------------------------------------------------            
