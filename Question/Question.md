@@ -1,4 +1,4 @@
-🎇question asked in daily classes    
+**🎇question asked in daily classes**    
 
 💬[**1.where actually printf definition is written in programming?** ](https://www.quora.com/Where-is-the-function-printf-defined-The-header-file-stdio-h-just-contains-the-declaration)                                                   
 
@@ -18,23 +18,23 @@
 💬[**6. difference between int* a    and  int *a ?** ](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)             
      
 -----------------------------------------------------------------------------------------------------------------------------------------
-💬[7 . What other files are made after i compile a .c file ? ](https://stackoverflow.com/questions/18933410/how-many-files-are-created-when-a-c-program-is-executed)           
+💬[**7 . What other files are made after i compile a .c file ?** ](https://stackoverflow.com/questions/18933410/how-many-files-are-created-when-a-c-program-is-executed)           
    
 ------------------------------------------------------------------------------------------------------------------------------------------                                                     
-💬[8 .are there any other pointer types available other than in c  ?](https://www.quora.com/Apart-from-C-and-C++-in-what-other-languages-are-pointers-used)           
+💬[**8 .are there any other pointer types available other than in c  ?**](https://www.quora.com/Apart-from-C-and-C++-in-what-other-languages-are-pointers-used)           
  
 --------------------------------------------------------------------------------------------------------------------------------------------------
-💬[9.Generic pointer ?](http://www.faqs.org/docs/learnc/x658.html)   
+💬[**9.Generic pointer ?**](http://www.faqs.org/docs/learnc/x658.html)   
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------   
- 💬10.implicit type ?  
- [answer]   When the type conversion is performed automatically by the compiler without programmers intervention, such type of conversion is known as implicit type conversion or type promotion.    
+ 💬**10.implicit type ?**  
+ [**answer**]   **When the type conversion is performed automatically by the compiler without programmers intervention, such type of conversion is known as implicit type conversion or type promotion.    
  example:   
  int x;  
 for(x=97; x<=122; x++)   
 {   
     printf("%c", x);   /*Implicit casting from int to char thanks to %c*/    
-}   
+}**   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
  💬11. type casting ? ( or ) explicit type ?    
