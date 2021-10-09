@@ -15,7 +15,7 @@
 💬[**5. what are * and & in pointers ?**](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)    
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
-💬[6. difference between int* a  and  int *a ?](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)             
+💬[**6. difference between int* a  and  int *a ?**](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)             
      
 -----------------------------------------------------------------------------------------------------------------------------------------
 💬[**7 . What other files are made after i compile a .c file ?** ](https://stackoverflow.com/questions/18933410/how-many-files-are-created-when-a-c-program-is-executed)           
@@ -49,8 +49,8 @@ for(x=97; x<=122; x++)
 -------------------------------------------------------------------------------------------------------------------------------                                                           
  💬[**12.Dereferencing pointer ?**](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/dereference.html)  
    
-**answer :  
-Dereferencing is used to access or manipulate data contained in memory location pointed to by a pointer. *(asterisk) is used with pointer variable when dereferencing the pointer variable, it refers to variable being pointed, so this is called dereferencing of pointers**.   
+**answer :**  
+**Dereferencing is used to access or manipulate data contained in memory location pointed to by a pointer. *(asterisk) is used with pointer variable when dereferencing the pointer variable, it refers to variable being pointed, so this is called dereferencing of pointers**   
 
 
 ---------------------------------------------------------------------------------------------------------------------------------            
