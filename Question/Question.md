@@ -15,7 +15,7 @@
 💬[**5. what are * and & in pointers ?**](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)    
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
-💬[**6. difference between int* a   and  int *a ?**   ](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)             
+💬[**6. difference between int* a   and  int *a  ?**](https://www.quora.com/In-simple-terms-what-is-the-difference-between-int*-and-int-*)             
      
 -----------------------------------------------------------------------------------------------------------------------------------------
 💬[**7 . What other files are made after i compile a .c file ?** ](https://stackoverflow.com/questions/18933410/how-many-files-are-created-when-a-c-program-is-executed)           
