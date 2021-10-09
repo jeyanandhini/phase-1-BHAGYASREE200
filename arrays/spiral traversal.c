@@ -1,113 +1,92 @@
-
 #include<stdio.h>
-void main()
+int main()
 {
-	int a[6][6];
-	int i,j;
+	int arr[6][6];
+	int i;
+	int j;
 	int put;
 	put=1;
-    int minr,minc,maxr,maxc;
-
-	 
 	for(i=0;i<6;i++)
 	{
 		for(j=0;j<6;j++)
 		{
-			a[i][j]=put++;
+			arr[i][j]=put++;
 			
-	    }
-		
+		}
 	}
-	printf("The given array:\n");
-
-	for(i=0;i<6;i++)
+	for (i=0;i<6;i++)
 	{
 		for(j=0;j<6;j++)
 		{
-			printf(" %2d ",a[i][j]);
+			printf("%2d ",arr[i][j]);
 		}
 		printf("\n");
 	}
-	
-	printf("\nThe spiral array:\n");
-	
-	minr=0;
-	minc=0;
-	maxr=5;
-	maxc=5;
-	
-  	for(i=minr; i<maxr; i++)
+	printf("spiral traversal\n");
+	int minr=0;
+	int minc=0;
+	int maxr=5;
+	int maxc=5;
+	for (i=minr;i<=maxr;i++)
 	{
-		printf(" %d ",a[i][minc]);
+		printf(" %2d  ",arr[i][minc]);
 	}
-	
-	for(i=minc; i<maxc; i++)
+	minc++;
+	for (i=minc;i<=maxc;i++)
 	{
-		printf(" %d ",a[maxc][i]);
+		printf(" %2d  ",arr[maxr][i]);
 	}
-    
-	for(i=maxr; i>minr; i--)
+	maxr--;
+	for (i=maxr;i>=minr;i--)
 	{
-		printf(" %d ",a[i][maxc]);
+		printf(" %2d  ",arr[i][maxc]);
 	}
-	
-	for(i=maxc; i>minc; i--)
+	maxc--;
+	for (i=maxc;i>=minc;i--)
 	{
-		printf(" %d ",a[minr][i]);
+		printf(" %2d  ",arr[minr][i]);
 	}
-
-	minr=1;
-	minc=1;
-	maxr=4;
-	maxc=4;
-	
-	for(i=minr; i<maxr; i++)
+	minr++;
+		for (i=minr;i<=maxr;i++)
 	{
-		printf(" %d ",a[i][minc]);
+		printf(" %2d  ",arr[i][minc]);
 	}
-
-	for(i=minc; i<maxc; i++)
+	minc++;
+	for (i=minc;i<=maxc;i++)
 	{
-		printf(" %d ",a[maxc][i]);
+		printf(" %2d  ",arr[maxr][i]);
 	}
-    
-	for(i=maxr; i>minr; i--)
+	maxr--;
+	for (i=maxr;i>=minr;i--)
 	{
-		printf(" %d ",a[i][maxc]);
+		printf(" %2d  ",arr[i][maxc]);
 	}
-	
-	for(i=maxc; i>minc; i--)
+	maxc--;
+	for (i=maxc;i>=minc;i--)
 	{
-		printf(" %d ",a[minr][i]);
+		printf(" %2d  ",arr[minr][i]);
 	}
-	
-
-
-	minr=2;
-	minc=2;
-	maxr=3;
-	maxc=3;
-	
-	for(i=minr; i<maxr; i++)
+	minr++;
+		for (i=minr;i<=maxr;i++)
 	{
-		printf(" %d ",a[i][minc]);
+		printf(" %2d  ",arr[i][minc]);
 	}
-
-	for(i=minc; i<maxc; i++)
+	minc++;
+	for (i=minc;i<=maxc;i++)
 	{
-		printf(" %d ",a[maxc][i]);
+		printf(" %2d  ",arr[maxr][i]);
 	}
-    
-	for(i=maxr; i>minr; i--)
+	maxr--;
+	for (i=maxr;i>=minr;i--)
 	{
-		printf(" %d ",a[i][maxc]);
+		printf(" %2d  ",arr[i][maxc]);
 	}
-	
-	for(i=maxc; i>minc; i--)
+	maxc--;
+	for (i=maxc;i>=minc;i--)
 	{
-		printf(" %d ",a[minr][i]);
+		printf(" %2d  ",arr[minr][i]);
 	}
-
+	minr++;
 }
 //output 
 OUTPUT:
