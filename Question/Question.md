@@ -128,3 +128,5 @@ for(x=97; x<=122; x++)
 💬[**35.How int variable stored in computer memory ?**](https://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node55.html)                  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+💬[**36.How int variable stored in computer memory ?**](https://www.keil.com/support/man/docs/c51/c51_ap_floatingpt.htm)             
+--------------------------------------------------------------------------------------------------------------------------------------------------
