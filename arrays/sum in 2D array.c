@@ -17,7 +17,7 @@ int i,j;
  for(j=0;j<2;j++)
  {
  	int k;
-	 k= (*(*(arr + i ) + j) );
+	 k= *(*(arr + i ) + j) ;
 	 
  	 add= add + k;
  	printf("%d\n",add);
