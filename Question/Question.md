@@ -136,3 +136,7 @@ for(x=97; x<=122; x++)
 💬[**37.why types of pointer variables are needed in computer memory?**](https://www.guru99.com/c-pointers.html)                             
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+💬[**38. How to delect odd lines in notepad**]![Screenshot (345)](https://user-images.githubusercontent.com/85113970/137862782-86d26333-31c8-4d2a-99a4-4ce777f37dee.png)
+![Screenshot (346)](https://user-images.githubusercontent.com/85113970/137862853-47445cc8-2a85-4d87-ad0b-9e6d2493e98a.png)
+
