@@ -230,7 +230,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✔ 65.**DAY 65** :**sub array + mutipication of 2-D array + finding out 2-D array in other 2-D array +** [**API**](https://en.wikipedia.org/wiki/API) + [**POSTMAN**](https://www.postman.com/)
+✔ 65.**DAY 65** : **sub array + mutipication of 2-D array + finding out 2-D array in other 2-D array +** [**API**](https://en.wikipedia.org/wiki/API) + [**POSTMAN**](https://www.postman.com/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
