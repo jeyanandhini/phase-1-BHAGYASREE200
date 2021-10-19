@@ -102,7 +102,7 @@
 ✔30.**DAY 30: DAY OFF**                                
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------    
-✔31 .**DAY 31** : [**Teachers day special algo meet with Dr.Suman Deb sir** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/fifth%20meet.md)  
+✔31 .**DAY 31** : [**Teachers day special algo meet with Dr.Suman Deb sir💕** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/fifth%20meet.md)  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ✔32.**DAY 32: 2D arrays concept.**           
