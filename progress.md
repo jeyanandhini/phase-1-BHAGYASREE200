@@ -240,7 +240,7 @@
 ✔67.**DAY 67** : **Discussed about documentation**                        
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔68.**DAY 68** : [**EPFL**](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne)      [**apply here**](https://summer.epfl.ch/apply/cab186975545326df83f333ea789213a)                     
+✔68.**DAY 68** : [**EPFL**](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne) **,**       [**apply here**](https://summer.epfl.ch/apply/cab186975545326df83f333ea789213a)                     
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
