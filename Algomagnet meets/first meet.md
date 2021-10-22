@@ -1,5 +1,5 @@
 
-**upcoming toastmasters**    
+**upcoming Algomagnet meet**    
 the meet we held on 7th aug 2021 few information  
 	
 CleanHand Beginner      
