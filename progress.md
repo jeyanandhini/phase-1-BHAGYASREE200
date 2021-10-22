@@ -74,7 +74,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------        
 
-✔23.**DAY 23** : [**problems on array**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/sum%20of%20array%20.c)  ,  [**problem on bubble sorting**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/bubble%20sorting.c)  ,  [**binary search problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/binary%20search.c)                        
+✔23.**DAY 23** : [**problems on array**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/SumOfArrayUsingFunction.c)  ,  [**problem on bubble sorting**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/BubbleSorting.c)  ,  [**binary search problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/BinarySearch.c)                        
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------               
 
