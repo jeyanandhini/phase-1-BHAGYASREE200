@@ -159,7 +159,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------   
 
-✔46.**DAY 46**: [**REVERSING ARRAY PROBLEM**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/reversing%20an%20array.c)    ,[**ROTATING ARRAY PROBLEM**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/rotating%20an%20array.c)    
+✔46.**DAY 46**: [**REVERSING ARRAY PROBLEM**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/ReversingArray.c)    ,[**ROTATING ARRAY PROBLEM**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/RotatingArray.c)    
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
