@@ -216,7 +216,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
-✔61.**DAY 61** : [**sorting in linked list**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/sorting%20in%20linked%20list.c)  
+✔61.**DAY 61** : [**sorting in linked list**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/SortingInLinkedList.c)  
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
