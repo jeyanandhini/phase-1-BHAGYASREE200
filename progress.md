@@ -149,8 +149,8 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
-✔44.**DAY 44**:[**linked list insertion at beginning problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/insertion%20at%20beginning.c) ,
-[**linked list insertion at end problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/insertion%20at%20end.c)  
+✔44.**DAY 44**:[**linked list insertion at beginning problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/InsertionAtBeginning.c) ,
+[**linked list insertion at end problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/InsertionAtEnd.c)  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
