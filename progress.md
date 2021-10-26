@@ -1,5 +1,27 @@
 
 ⌚Daily working progress 📚📖⏱⌛
+### <p align="center"> ⏳ Daily Progress Tracker 🚶‍♂️ </p>
+
+#
+
+<img src="https://img.shields.io/badge/Chayan's-Daily--Streaks-red"/> <img src="https://img.shields.io/badge/Suggestions-Welcomed-blue"/>
+
+### 💭 Table of Content
+#
+* ***Jump To :*** 
+   * **[August](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--august-)**
+   * **[September](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--september-)**
+   * **[October](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--october-)**
+
+</br>
+
+<table>
+	<tr>
+		 <td>
+    
+### <p align="center"> 🗓 `August` </p>
+    
+</br>
 
 ✔ 1.  [**DAY 1**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day1.md)      **Researched about **open source****                
 
