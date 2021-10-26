@@ -263,8 +263,8 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✔74.**DAY 74**: [**Heap sorting**](https://www.google.com/search?q=heap+sort&rlz=1C1CHBD_enIN942IN942&oq=heap&aqs=chrome.4.69i57j0i67l2j0i67i433j0i433i512j0i512j69i60l2.4419j0j7&sourceid=chrome&ie=UTF-8)   **+**  [**Priority Queue**](https://www.geeksforgeeks.org/priority-queue-using-binary-heap/)                                                  
-
+✔74.**DAY 74**: [**Heap sorting**](https://www.google.com/search?q=heap+sort&rlz=1C1CHBD_enIN942IN942&oq=heap&aqs=chrome.4.69i57j0i67l2j0i67i433j0i433i512j0i512j69i60l2.4419j0j7&sourceid=chrome&ie=UTF-8)   **+**  [**Priority Queue**](https://www.geeksforgeeks.org/priority-queue-using-binary-heap/)            **Discussed today**                                                              
+ 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
