@@ -117,10 +117,11 @@
 ✔30.**DAY 30: DAY OFF**                                
 
 	
-</details>
+ </details>
   <details>
-<summary> September 📑 </summary>
+<summary> SEPTEMBER 📑 </summary>
 <br>
+	
 </table>
 
 </br>
