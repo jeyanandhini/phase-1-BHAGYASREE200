@@ -1,6 +1,10 @@
 
 ⌚Daily working progress 📚📖⏱⌛
 
+</details>
+  <details>
+<summary> August 📑 </summary>
+<br>
 
 </br>
 
