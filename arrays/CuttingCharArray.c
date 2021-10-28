@@ -13,7 +13,7 @@ void main()
 } 
 //output
 helloworld
-hello
+hellowold
 --------------------------------
 Process exited after 0.1993 seconds with return value 5
 Press any key to continue . . .
