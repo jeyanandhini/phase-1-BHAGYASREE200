@@ -161,7 +161,7 @@
 ✔40.**DAY 40**: [**LINKED LIST CONCEPT**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/link%20list.md)   , [**problem of linked list**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/ProblemOfLinkedList.c)   
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------       
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------       
 
 ✔41.**DAY 41:  Deep into linked list . (topic is insertion,delection)**                                      
 
