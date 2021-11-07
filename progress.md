@@ -333,7 +333,17 @@
 ✔83. **Day 83** : **REcursion** **+** [**jira log work**](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=93058442140&campaign=9124878474&creative=542638230617&device=c&keyword=%2Bjira&matchtype=b&network=g&placement=&ds_kids=p51394849945&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VExmgREGmUvHhOC3ipx9vdJZ-OJOWRHPaW8yR-VmcvadcmwYCcaSk0aAuauEALw_wcB&gclsrc=aw.ds)  **+**  [**tower Of Hanoi**](https://en.wikipedia.org/wiki/Tower_of_Hanoi)                         
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔84 **day 84**  :  **Discussed about** [**Power of Number**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/recursion/PowerOfNumber.c)           
+✔84 **Day 84**  :  **Discussed about** [**Power of Number**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/recursion/PowerOfNumber.c)           
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+✔85. **Day 85**	 : **Done** [**PreInPost Problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/recursion/Pre%20In%20Post.c)   
+	
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+✔86 . **Day 86** : **Weekend**                                                                           
+	
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+✔87. **Day 87**   : **SUNDAY**                             
+	
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+	
 	
