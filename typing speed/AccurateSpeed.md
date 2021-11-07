@@ -37,6 +37,9 @@
 
 |**👉18**| [**94**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/typing%20speed/Day18.md) | **29**  | 
 
+|**👉19**| [**95**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/typing%20speed/Day19.md) | **27**  | 
+
+
 
 
 
