@@ -1,4 +1,4 @@
-Selection Sort ✔
+Selection Sort ✔                        
 1️⃣The selection sort may be defined as another algorithm for sorting the list in which the array is
 bifurcated into two arrays where the first array is supposed to be empty while the second array
 consists of the unsorted list of values. The program searches for the smallest values in the second
