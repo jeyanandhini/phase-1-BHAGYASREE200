@@ -13,6 +13,6 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------                   
 
-| **🏆** [**Martin Richards **](https://en.wikipedia.org/wiki/Martin_Richards_(computer_scientist))   **Richards studied mathematics as an undergraduate student at the University of Cambridge and took the Cambridge Diploma in Computer Science**                               
+| **🏆** [**Martin Richards**](https://en.wikipedia.org/wiki/Martin_Richards_(computer_scientist))   **Richards studied mathematics as an undergraduate student at the University of Cambridge and took the Cambridge Diploma in Computer Science**                               
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
