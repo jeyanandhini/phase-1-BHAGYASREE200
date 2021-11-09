@@ -16,3 +16,7 @@
 | **🏆** [**Martin Richards**](https://en.wikipedia.org/wiki/Martin_Richards_(computer_scientist))   **Richards studied mathematics as an undergraduate student at the University of Cambridge and took the Cambridge Diploma in Computer Science**                               
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| **🏆** [**Tony Hoare**](https://en.wikipedia.org/wiki/Tony_Hoare)   **ony Hoare developed the sorting algorithm quicksort in 1959–1960.He also developed Hoare logic for verifying program correctness, and the formal language communicating sequential processes (CSP) to specify the interactions of concurrent processes (including the dining philosophers problem) and the inspiration for the programming language occam.**       
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
