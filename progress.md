@@ -81,7 +81,7 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
-✔22.**DAY 22**:[**Algomagnet meet**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/fourth%20meet.md)       
+✔22.**DAY 22**:[**Algomagnet meet**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20.md)       
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------        
 
@@ -96,7 +96,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------      
 
-✔26.**DAY 26**: **TOASTMASTERS MEET** [ **jakarta motivators club**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/jakarta%20motivators%20club%20.md)         
+✔26.**DAY 26**: **TOASTMASTERS MEET** [ **jakarta motivators club**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/jakarta%20motivators%20club%20.md)         
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------     
 
@@ -127,7 +127,7 @@
 
 </br>
 	
-✔31 .**DAY 31** : [**Teachers day special algo meet with Dr.Suman Deb sir💕** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/fifth%20meet.md)  
+✔31 .**DAY 31** : [**Teachers day special algo meet with Dr.Suman Deb sir💕** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20SumanDebSir.md)  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ✔32.**DAY 32: 2D arrays concept.**           
@@ -143,14 +143,14 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------         
 
-✔ 36. **DAY 36** : [**Sixth Algomagnets Meet With NITA Alumni Arijit SenChaudhuri sir💓** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/sixth%20meet.md)   
+✔ 36. **DAY 36** : [**Sixth Algomagnets Meet With NITA Alumni Arijit SenChaudhuri sir💓** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20Arijit%20SenChaudhuri%20sir.md)   
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------             
 
 ✔37.**DAY 37**: [**GSoC**](https://opensource.googleblog.com/search/label/gsoc)                
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
-✔38.**DAY 38** : [**ALUMNI AT BOCCONNI UNIVERSITY,ITALY❤**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/Interaction%20session%20with%20senior.md)  
+✔38.**DAY 38** : [**ALUMNI AT BOCCONNI UNIVERSITY,ITALY❤**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20Senior.md)  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------            
 
@@ -169,7 +169,7 @@
 ✔42.**DAY 42: weekend break**                                   
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------               
-✔43.**DAY 43**:[**AlgoMagnet Communication session with Goldman Sachs Analyst Rajat Mittal Sir**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/7th%20meet%20with%20rajat%20mittal%20sir.md)                     
+✔43.**DAY 43**:[**AlgoMagnet Communication session with Goldman Sachs Analyst Rajat Mittal Sir**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20RajatMittalSir.md)                     
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -189,7 +189,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
-✔47.**DAY 47**:  [**AlgoMagnet Communication session with SDE-2 @Amazon Gourav Sir 💕**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/toastmasters/8th%20meet%20withAlgoMagnet%20Communication%20session%20with%20SDE-2%20%20Gourav%20Sir%20at%20%20amazon.md)    
+✔47.**DAY 47**:  [**AlgoMagnet Communication session with SDE-2 @Amazon Gourav Sir 💕**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/algomagnetMeet%20GouravSir.md)    
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
