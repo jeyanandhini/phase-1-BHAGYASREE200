@@ -1,1 +1,8 @@
-[**Vim**](https://www.vim.org/about.php#:~:text=Vim%20is%20a%20highly%20configurable,consider%20it%20an%20entire%20IDE%20.)  **+** [**Vi**](https://en.wikipedia.org/wiki/Vi) **+** [**Sublime Text**](https://en.wikipedia.org/wiki/Sublime_Text)
+
+**🚧** **New Concepts** 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**1**       [**Vim**](https://www.vim.org/about.php#:~:text=Vim%20is%20a%20highly%20configurable,consider%20it%20an%20entire%20IDE%20.)          
+**2**       [**Vi**](https://en.wikipedia.org/wiki/Vi)                
+**3**       [**Sublime Text**](https://en.wikipedia.org/wiki/Sublime_Text)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
