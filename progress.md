@@ -89,7 +89,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------               
 
-✔24.**DAY 24: Research and think on the Partition concept and learned about Merge Sorting and emphasize on writing pseudo code**               
+✔24.[**DAY 24**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day24.md): **Research and think on the Partition concept and learned about Merge Sorting and emphasize on writing pseudo code**               
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------     
 ✔25 .**DAY 25: Learned about** [**pesudocodes**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2025.md)     , [**merge sort**](https://www.geeksforgeeks.org/merge-sort/)       
