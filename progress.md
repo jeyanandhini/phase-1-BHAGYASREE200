@@ -64,7 +64,7 @@
 ✔16.**DAY 16 : Discussed about arrays**                                                                            
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------      
-✔17.**DAY 17:** [**Meet Link** ](https://youtu.be/bBFrGnXVAe4)    ,[**AlgomagnetMeet with K.S.Sarma sir 💝**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20K.S.Sarma.md)    
+✔17.[**DAY 17**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day17.md):[**Meet Link** ](https://youtu.be/bBFrGnXVAe4)    ,[**AlgomagnetMeet with K.S.Sarma sir 💝**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20K.S.Sarma.md)    
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
