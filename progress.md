@@ -43,7 +43,7 @@
 ✔ 9. [**DAY 9**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day9.md) : **Normal class**                
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------              
-✔ 10. [**DAY 10**](https://www.keybr.com/) **Typing practice**                                    
+✔ 10. [**DAY 10**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day10.md) **Typing practice**                                    
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ✔ 11. **DAY 11 : today we made a toastmasters meet .and finally access to the domain.**                                                  
