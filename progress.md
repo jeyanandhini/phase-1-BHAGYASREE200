@@ -31,7 +31,7 @@
 ✔ 6.  [**DAY 6**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day6.md): **SUNDAY FUNDAY NO WORK ONLY ENJOY**.       
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------               
-✔ 7.  **DAY 7**: [**vim**](https://www.vim.org/about.php#:~:text=Vim%20is%20a%20highly%20configurable,consider%20it%20an%20entire%20IDE%20.)   ,
+✔ 7.  [**DAY 7**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day7.md) : [**vim**](https://www.vim.org/about.php#:~:text=Vim%20is%20a%20highly%20configurable,consider%20it%20an%20entire%20IDE%20.)   ,
         [**vi**](https://en.wikipedia.org/wiki/Vi) ,[**Sublime text**](https://en.wikipedia.org/wiki/Sublime_Text) ,**new concept discussed and got an idea.**  
         
      
