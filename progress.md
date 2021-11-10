@@ -74,10 +74,10 @@
 ✔19.[**DAY 19**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day19.md): **Deep discussion about subarrays ,sorting,sliding windows**                                              
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------         
-✔20.**DAY 20** :[**Its movie day**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/movie%20days/review.md)      
+✔20.**DAY 20**:[**Its movie day**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/movie%20days/review.md)      
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------     
-✔21.**DAY 21**: [**got an idea about Binary search ,Sorting, Sliding window ,Two pointers** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2021.md)      
+✔21.[**DAY 21**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2021.md)  : [**Binary search ,Sorting, Sliding window ,Two pointers**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2021.md)    **New concepts**                   
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
