@@ -46,7 +46,7 @@
 ✔ 10. [**DAY 10**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day10.md) **Typing practice**                                    
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
-✔ 11. **DAY 11 : today we made a toastmasters meet .and finally access to the domain.**                                                  
+✔ 11. [**DAY 11**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day11.md) : **today we made a toastmasters meet .and finally access to the**  [**domain.**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day11.md)                                                  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ✔ 12. **DAY 12 : Discussed more about pointers and many questions were raised and solved in QUESTION.md**                           
