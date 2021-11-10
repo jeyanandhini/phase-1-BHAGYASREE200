@@ -362,6 +362,6 @@
 
 </br>	
 	
-✔89. **Day 89** : **Discussed** [**Repuees Division**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/RupeesDivided.c) **problem**  **+**  **Tower Of Hanoi** **problem**  **and** **studied from wiki** 
+✔89. **Day 89** : **Discussed** [**Repuees Division**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/RupeesDivided.c) **problem**  **+**  **Tower Of Hanoi** **problem**  **and** **studied from wikipedia and got an idea** 
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------	
