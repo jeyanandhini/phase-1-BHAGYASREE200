@@ -17,8 +17,10 @@
                   char *c;//pointer to char                         
                   
   
-**Example**
-![image](https://user-images.githubusercontent.com/85113970/141104600-ad1549f2-f403-4114-b63b-8b164f975a29.png)
+**Example**               
+
+![image](https://user-images.githubusercontent.com/85113970/141104600-ad1549f2-f403-4114-b63b-8b164f975a29.png)                                       
+
 **As you can see in the above figure, pointer variable stores the address of number variable, i.e., fff4. The value of                     
 number variable is 50. But the address of pointer variable p is aaa3.**
 **By the help of** * **(indirection operator), we can print the value of pointer variable p.**
