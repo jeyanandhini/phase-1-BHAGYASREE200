@@ -22,7 +22,7 @@
 
       
 -------------------------------------------------------------------------------------------------------------------------------------------------------------                   
-✔ 4.  **DAY 4 : Discussed about the upcoming three days training and the syllabus of 3rd semester**               
+✔ 4.  [**DAY 4**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day4.md) : **Discussed about the upcoming three days training and the syllabus of 3rd semester**               
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------                          
 ✔ 5.  **DAY 5 : preparing for the [first  toastmasters meet](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/first%20meet.md)     but i am very munch nervous ,hopefully it will be better .**   
