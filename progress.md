@@ -58,7 +58,7 @@
 ✔ 14. [**DAY 14**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day14.md)   : **Studied about arrays** [**arrays**](https://www.geeksforgeeks.org/arrays-in-c-cpp/)           
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
-✔15. [**DAY 15**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day15.md)  : Discussed about the internship in** [**Mitacs**](https://www.mitacs.ca/en) **and about** [**pointer arithmetic**](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)  **and some problems in pointers**                           
+✔15. [**DAY 15**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day15.md)  : **Discussed about the internship in** [**Mitacs**](https://www.mitacs.ca/en) **and about** [**pointer arithmetic**](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)  **and some problems in pointers**                           
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------      
 ✔16.**DAY 16 : Discussed about arrays**                                                                            
