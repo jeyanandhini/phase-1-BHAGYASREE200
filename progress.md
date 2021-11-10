@@ -68,7 +68,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
-✔18.**DAY 18 : Researched about** [**famous persons in computer world**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Famous%20Inventors%20of%20computer%20science/personality.md)       
+✔18.[**DAY 18**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day18.md) : **Researched about** [**famous persons in computer world**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Famous%20Inventors%20of%20computer%20science/personality.md)       
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------      
 ✔19.**DAY 19: Deep discussion about subarrays ,sorting,sliding windows**                                              
