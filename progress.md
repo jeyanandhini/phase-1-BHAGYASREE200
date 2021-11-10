@@ -36,7 +36,7 @@
         
      
 -------------------------------------------------------------------------------------------------------------------------------------------------------------                
-✔ 8. [**DAY 8**](:[**Started pointers**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/LetUsC/Pointers/Concept.md)        
+✔ 8. [**DAY 8**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%208.md) :[**Started pointers**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/LetUsC/Pointers/Concept.md)        
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------               
