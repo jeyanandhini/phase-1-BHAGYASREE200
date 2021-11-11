@@ -104,7 +104,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------     
 
-✔28.**DAY 28**: [**Problem on 2D array**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2028.c)                                 
+✔28.[**DAY 28**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day28.c) : **Problem on 2D array**                                 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------      
 ✔29.**DAY 29**: [**partition algorithm**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2029.md)                
