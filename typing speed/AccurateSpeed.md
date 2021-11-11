@@ -43,5 +43,6 @@
 
 |**👉21**| [**94**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/typing%20speed/Day21.md) | **29**  | 
 
-
 |**👉22**| [**98**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/typing%20speed/Day22.md) | **29**  |
+
+|**👉23**| [**92**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/typing%20speed/Day23.md) | **27**  |
