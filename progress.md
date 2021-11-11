@@ -96,7 +96,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------      
 
-✔26.**DAY 26**: **TOASTMASTERS MEET** [ **jakarta motivators club**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/jakarta%20motivators%20club%20.md)         
+✔26.[**DAY 26**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day26.md) : **TOASTMASTERS MEET** [ **jakarta motivators club**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/jakarta%20motivators%20club%20.md)         
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------     
 
