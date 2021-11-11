@@ -365,3 +365,8 @@
 ✔89. **Day 89** : **Discussed** [**Rupees Division**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/RupeesDivided.c) **problem**  **+**  [**Tower Of Hanoi**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/TowerOfHanoi.c) **problem and** **studied from wikipedia and came to know more information** 
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------	
+
+✔90. **Day 90** : **Self Evaluation Test**  **+**  **Discussed about Women Tech**                   
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	
