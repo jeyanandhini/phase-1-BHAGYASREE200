@@ -3,11 +3,15 @@
 
 
 
+</br>
+
+<table>
+	<tr>
+		 <td>
     
 ### <p align="center"> 🗓 `August` </p>
-<details>
-<summary> August 📑 </summary>
-<br>
+    
+</br>
 
 ✔ 1.  [**DAY 1**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day1.md)      **Researched about **open source****                
 
@@ -111,11 +115,17 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------	
 
+</table>
 
+</br>
+
+<table>
+	<tr>
+		 <td>
+    
 ### <p align="center"> 🗓 `September` </p>
-<details>
-<summary> September 📑 </summary>
-<br>
+
+</br>
 	
 ✔31 .**DAY 31** : [**Teachers day special algo meet with Dr.Suman Deb sir💕** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20SumanDebSir.md)  
 
@@ -227,12 +237,17 @@
 ✔59.**DAY 59** :**WEEKEND BREAK🆗**                        
 
 
+</table>
+ 
+ </br>
+ 
+ <table>
+	<tr>
+		 <td>
+ 
+### <p align="center"> 🗓 `October` </p>
 
-    
-### <p align="center"> 🗓 `Octobert` </p>
-<details>
-<summary> October 📑 </summary>
-<br>
+</br>
 	
 ✔60.**DAY 60** : [**Discussed about test paper📜**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2060.md)                                                            
 
@@ -332,11 +347,18 @@
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------	
 
+
+</table>
+
+</br>
+
+<table>
+	<tr>
+		 <td>
     
 ### <p align="center"> 🗓 `November` </p>
-<details>
-<summary> November 📑 </summary>
-<br>	
+    
+</br>
 	
 ✔89. **Day 89** : **Discussed** [**Rupees Division**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/RupeesDivided.c) **problem**  **+**  [**Tower Of Hanoi**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/TowerOfHanoi.c) **problem and** **studied from wikipedia and came to know more information** 
 	
