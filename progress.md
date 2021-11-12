@@ -378,3 +378,6 @@
 ✔91.**Day 91** : [**Gave test**](https://github.com/cleanhand/phase-1-BHAGYASREE200/tree/main/Question/SelfEvaluationTest) **+**  **Dynamic programming 1 Subdivision like Tabularation and memoizarion**                           
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------	
+✔92.**Day 92** : **Completed week1 of coursera** **+** **and a discussion of video making**                       
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------			 
