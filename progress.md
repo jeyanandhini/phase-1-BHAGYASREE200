@@ -174,8 +174,8 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
-✔44.**DAY 44**:[**linked list insertion at beginning problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/InsertionAtBeginning.c) ,
-[**linked list insertion at end problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/InsertionAtEnd.c)  
+✔44.**DAY 44**:[**linked list insertion at beginning problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/LinkedList/InsertionAtBeginning.c) ,
+[**linked list insertion at end problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/LinkedList/InsertionAtEnd.c)  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
@@ -184,7 +184,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------   
 
-✔46.**DAY 46**: [**REVERSING ARRAY PROBLEM**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/ReversingArray.c)    ,[**ROTATING ARRAY PROBLEM**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/RotatingArray.c)    
+✔46.**DAY 46**: [**REVERSING ARRAY PROBLEM**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Array/ReversingArray.c)    ,[**ROTATING ARRAY PROBLEM**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Array/RotatingArray.c)    
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -227,10 +227,10 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✔57.**DAY 57** : **discussed about**  [**spiral traversal**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/SpiralTraversal.c)   **and**        [**2d array 1 to 18 and 18 to 1 rev**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/2dArray1to18AndRev18to1.c)                
+✔57.**DAY 57** : **discussed about**  [**spiral traversal**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Array/SpiralTraversal.c)   **and**        [**2d array 1 to 18 and 18 to 1 rev**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Array/2dArray1to18AndRev18to1.c)                
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔58.**DAY 58** :[**wave traversal**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/arrays/WaveTraversal.c)  **and diagonal traversal**            
+✔58.**DAY 58** :[**wave traversal**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Array/WaveTraversal.c)  **and diagonal traversal**            
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
@@ -255,7 +255,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
-✔61.**DAY 61** : [**sorting in linked list**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Linked%20list/SortingInLinkedList.c)  
+✔61.**DAY 61** : [**sorting in linked list**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/LinkedList/SortingInLinkedList.c)  
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
