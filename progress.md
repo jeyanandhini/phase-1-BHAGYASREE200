@@ -127,7 +127,7 @@
     
 ### <p align="center"> 🗓 `September` </p>
 <details>
-<summary> JULY 📑 </summary>
+<summary> September 📑 </summary>
 <br>
 </br>
 	
@@ -250,7 +250,9 @@
 		 <td>
  
 ### <p align="center"> 🗓 `October` </p>
-
+<details>
+<summary> October📑 </summary>
+<br>
 </br>
 	
 ✔60.**DAY 60** : [**Discussed about test paper📜**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/DAY%2060.md)                                                            
@@ -361,7 +363,9 @@
 		 <td>
     
 ### <p align="center"> 🗓 `November` </p>
-    
+ <details>
+<summary> November 📑 </summary>
+<br>   
 </br>
 	
 ✔89. **Day 89** : **Discussed** [**Rupees Division**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/RupeesDivided.c) **problem**  **+**  [**Tower Of Hanoi**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/TowerOfHanoi.c) **problem and** **studied from wikipedia and came to know more information** 
