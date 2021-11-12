@@ -126,7 +126,9 @@
 		 <td>
     
 ### <p align="center"> 🗓 `September` </p>
-
+<details>
+<summary> JULY 📑 </summary>
+<br>
 </br>
 	
 ✔31 .**DAY 31** : [**Teachers day special algo meet with Dr.Suman Deb sir💕** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20SumanDebSir.md)  
