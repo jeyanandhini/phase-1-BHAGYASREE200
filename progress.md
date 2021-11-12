@@ -2,11 +2,7 @@
 ⌚Daily working progress 📚📖⏱⌛
 
 
-</br>
 
-<table>
-	<tr>
-		 <td>
     
 ### <p align="center"> 🗓 `August` </p>
 <details>
