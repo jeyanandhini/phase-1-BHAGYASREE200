@@ -10,7 +10,8 @@ the compiler at the end of the string.**
 
 ![image](https://user-images.githubusercontent.com/85113970/141423603-508ba25d-fce8-41b0-bc3d-8966cec7805d.png)
 
-**Declaring and Initializing a string variables:**                                                
+**Declaring and Initializing a string variables:**       
+
                                                             // valid                      
                                                              char name[13] = "StudyTonight";                                   
                                                              char name[10] = {'c','o','d','e','\0'};                                  
