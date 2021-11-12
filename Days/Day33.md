@@ -14,7 +14,6 @@ the compiler at the end of the string.**
                                                             // valid                      
                                                              char name[13] = "StudyTonight";                                   
                                                              char name[10] = {'c','o','d','e','\0'};                                  
-
                                                            // Illegal                         
                                                              char ch[3] = "hello";                     
                                                              char str[4];                  
