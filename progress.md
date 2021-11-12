@@ -136,7 +136,7 @@
 ✔33.[**DAY 33**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day33.md)  : **Character array and string**              
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
-✔34.**DAY 34 : Discussed about structure**                              
+✔34.[**DAY 34**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day34.md) : **Discussed about structure**                              
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------       
 ✔35.**DAY 35: DAY OFF**
