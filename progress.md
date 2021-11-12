@@ -311,7 +311,7 @@
 ✔76.**DAY 76** :  [**Discussed about recursion**](https://www.youtube.com/watch?v=TZR6tMs4vmQ) 
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔77. **DAY 77** : [**RECURSION PROBLEMS**](https://github.com/cleanhand/phase-1-BHAGYASREE200/tree/main/recursion)            
+✔77. **DAY 77** : [**RECURSION PROBLEMS**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/Factorial.c)            
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✔78. **DAY 78** : **About recursion**                   
@@ -323,20 +323,20 @@
 ✔80 .**Day 80** : **SUNDAY**                 
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔81. **Day 81** : [**Fibonacci**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/recursion/Fibonacci.c)               
+✔81. **Day 81** : [**Fibonacci**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/Fibonacci.c)               
 		
 -------------------------------------------------------------------------------------------------------------------------------------------------------------	
-✔82 .**Day 82**  : [**Recursive function of 543212345**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/recursion/543212345.c)  **+**  [**Recursion function of 5432112345**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/recursion/5432112345.c)               
+✔82 .**Day 82**  : [**Recursive function of 543212345**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/543212345.c)  **+**  [**Recursion function of 5432112345**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/5432112345.c)               
 	
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✔83. **Day 83** : **REcursion** **+** [**jira log work**](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=93058442140&campaign=9124878474&creative=542638230617&device=c&keyword=%2Bjira&matchtype=b&network=g&placement=&ds_kids=p51394849945&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VExmgREGmUvHhOC3ipx9vdJZ-OJOWRHPaW8yR-VmcvadcmwYCcaSk0aAuauEALw_wcB&gclsrc=aw.ds)  **+**  [**tower Of Hanoi**](https://en.wikipedia.org/wiki/Tower_of_Hanoi)                         
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔84 **Day 84**  :  **Discussed about** [**Power of Number**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/recursion/PowerOfNumber.c)           
+✔84 **Day 84**  :  **Discussed about** [**Power of Number**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/PowerOfNumber.c)           
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔85. **Day 85**	 : **Done** [**PreInPost Problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/recursion/Pre%20In%20Post.c)   
+✔85. **Day 85**	 : **Done** [**PreInPost Problem**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/DSA/Recursion/Pre%20In%20Post.c)   
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✔86 . **Day 86** : **Weekend**                                                                           
