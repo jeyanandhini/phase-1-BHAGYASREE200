@@ -9,10 +9,6 @@
 		 <td>
     
 ### <p align="center"> 🗓 `August` </p>
-   
-
-> Updates on my daily learning. 🚶‍♀️
-
 <details>
 <summary> August 📑 </summary>
 <br>
