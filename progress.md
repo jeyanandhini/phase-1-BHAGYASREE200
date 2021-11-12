@@ -10,7 +10,9 @@
 		 <td>
     
 ### <p align="center"> 🗓 `August` </p>
-    
+ <details>
+<summary> August📑 </summary>
+<br>   
 </br>
 
 ✔ 1.  [**DAY 1**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day1.md)      **Researched about **open source****                
