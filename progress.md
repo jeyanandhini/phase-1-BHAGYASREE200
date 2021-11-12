@@ -11,6 +11,13 @@
 ### <p align="center"> 🗓 `August` </p>
     
 </br>
+	<h1 align="center"> Progress 🚧 </h1> 
+
+> Updates on my daily learning. 🚶‍♀️
+
+<details>
+<summary> JULY 📑 </summary>
+<br>
 
 ✔ 1.  [**DAY 1**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day1.md)      **Researched about **open source****                
 
