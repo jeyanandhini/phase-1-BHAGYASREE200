@@ -133,7 +133,7 @@
 ✔32.[**DAY 32**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day32.md) : **2D arrays concept.**           
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
-✔33.**DAY 33 : Character array and string**              
+✔33.[**DAY 33**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day33.md)  : **Character array and string**              
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ✔34.**DAY 34 : Discussed about structure**                              
