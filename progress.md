@@ -130,7 +130,7 @@
 ✔31 .**DAY 31** : [**Teachers day special algo meet with Dr.Suman Deb sir💕** ](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Algomagnet%20meets/AlgomagnetMeet%20SumanDebSir.md)  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
-✔32.**DAY 32: 2D arrays concept.**           
+✔32.[**DAY 32**](https://github.com/cleanhand/phase-1-BHAGYASREE200/blob/main/Days/Day32.md) : **2D arrays concept.**           
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ✔33.**DAY 33 : Character array and string**              
